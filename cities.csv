@@ -1,0 +1,925 @@
+﻿continent,region,countr_iso2,country_en,country_cn,city,flag_icon,probe_num
+Africa,Sub-Saharan Africa,AO,Angola,安哥拉,Luanda,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AO.svg,2
+Africa,Sub-Saharan Africa,BF,Burkina Faso,布基纳法索,Ouagadougou,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BF.svg,1
+Africa,Sub-Saharan Africa,BJ,Benin,贝宁,Cotonou,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BJ.svg,1
+Africa,Northern Africa,EG,Egypt,埃及,Cairo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EG.svg,2
+Africa,Sub-Saharan Africa,GH,Ghana,加纳,Accra,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GH.svg,1
+Africa,Sub-Saharan Africa,KE,Kenya,肯尼亚,Nairobi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KE.svg,4
+Africa,Northern Africa,MA,Morocco,摩洛哥,Fes,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MA.svg,1
+Africa,Sub-Saharan Africa,NG,Nigeria,尼日利亚,Lagos,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NG.svg,12
+Africa,Sub-Saharan Africa,NA,Namibia,纳米比亚,Windhoek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NA.svg,1
+Africa,Sub-Saharan Africa,SC,Seychelles,塞舌尔,Victoria,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SC.svg,1
+Africa,Sub-Saharan Africa,SL,Sierra Leone,塞拉利昂,Freetown,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SL.svg,1
+Africa,Northern Africa,TN,Tunisia,突尼斯,Tunis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TN.svg,1
+Africa,Sub-Saharan Africa,ZA,South Africa,南非,Cape Town,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ZA.svg,8
+Africa,Sub-Saharan Africa,ZA,South Africa,南非,Johannesburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ZA.svg,21
+Africa,Sub-Saharan Africa,ZA,South Africa,南非,Lichtenburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ZA.svg,1
+Africa,Sub-Saharan Africa,ZA,South Africa,南非,Pretoria,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ZA.svg,1
+Asia,Western Asia,AE,United Arab Emirates,阿联酋,Abu Dhabi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AE.svg,1
+Asia,Western Asia,AE,United Arab Emirates,阿联酋,Al Fujairah City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AE.svg,1
+Asia,Western Asia,AE,United Arab Emirates,阿联酋,Dubai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AE.svg,4
+Asia,Western Asia,AE,United Arab Emirates,阿联酋,Fujairah,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AE.svg,2
+Asia,Western Asia,AE,United Arab Emirates,阿联酋,Sharjah,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AE.svg,1
+Asia,Western Asia,AM,Armenia,亚美尼亚,Armavir,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AM.svg,1
+Asia,Western Asia,AM,Armenia,亚美尼亚,Yerevan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AM.svg,3
+Asia,Western Asia,AZ,Azerbaijan,阿塞拜疆,Baku,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AZ.svg,5
+Asia,Southern Asia,BD,Bangladesh,孟加拉国,Dhaka,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BD.svg,17
+Asia,Southern Asia,BD,Bangladesh,孟加拉国,Gazipur,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BD.svg,1
+Asia,Southern Asia,BD,Bangladesh,孟加拉国,Jessore,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BD.svg,1
+Asia,Southern Asia,BD,Bangladesh,孟加拉国,Khulna,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BD.svg,1
+Asia,Southern Asia,BD,Bangladesh,孟加拉国,Natore,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BD.svg,2
+Asia,Southern Asia,BD,Bangladesh,孟加拉国,Sirajganj,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BD.svg,1
+Asia,Western Asia,BH,Bahrain,巴林,Manama,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BH.svg,1
+Asia,Eastern Asia,CN,China,中国,Beijing,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,6
+Asia,Eastern Asia,CN,China,中国,Changsha,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,3
+Asia,Eastern Asia,CN,China,中国,Dezhou,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Eastern Asia,CN,China,中国,Guangzhou,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,5
+Asia,Eastern Asia,CN,China,中国,Guiyang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Eastern Asia,CN,China,中国,Kunming,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Eastern Asia,CN,China,中国,Nanjing,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,2
+Asia,Eastern Asia,CN,China,中国,Shanghai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,5
+Asia,Eastern Asia,CN,China,中国,Shenzhen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,4
+Asia,Eastern Asia,CN,China,中国,Taishan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Eastern Asia,CN,China,中国,Tianjin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Eastern Asia,CN,China,中国,Xi'an,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Eastern Asia,CN,China,中国,Zhoukou,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CN.svg,1
+Asia,Western Asia,GE,Georgia,乔治亚州,Tbilisi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GE.svg,4
+Asia,Eastern Asia,HK,"Hong Kong	China",中国香港,Hong Kong,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HK.svg,108
+Asia,Eastern Asia,HK,"Hong Kong	China",中国香港,Tsuen Wan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HK.svg,5
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Bandung,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,6
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Batam,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,5
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Batu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Bekasi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Bogor,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,2
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Brebes,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Cikarang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Denpasar,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,2
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Depok,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Jakarta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,26
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Madiun,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Magelang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Malang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,2
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Palembang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Pamekasan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Pati,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,2
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Pekanbaru,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Samarinda,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Semarang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,2
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Serang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Sleman,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Surabaya,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,6
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Surakarta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,2
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Tegal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Wonosari,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,1
+Asia,South-eastern Asia,ID,Indonesia,印度尼西亚,Yogyakarta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ID.svg,5
+Asia,Western Asia,IL,Israel,以色列,Jerusalem,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IL.svg,1
+Asia,Western Asia,IL,Israel,以色列,Tel Aviv,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IL.svg,11
+Asia,Southern Asia,IN,India,印度,Agra,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Aizawl,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,2
+Asia,Southern Asia,IN,India,印度,Barddhaman,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,4
+Asia,Southern Asia,IN,India,印度,Bengaluru,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,13
+Asia,Southern Asia,IN,India,印度,Bhopal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Chennai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,2
+Asia,Southern Asia,IN,India,印度,Delhi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,4
+Asia,Southern Asia,IN,India,印度,Erode,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Guwahati,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Hyderabad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,9
+Asia,Southern Asia,IN,India,印度,Imphal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Indore,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,2
+Asia,Southern Asia,IN,India,印度,Jammu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Khandwa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Kochi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,2
+Asia,Southern Asia,IN,India,印度,Mumbai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,36
+Asia,Southern Asia,IN,India,印度,New Delhi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Noida,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Patna,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Prayagraj,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,3
+Asia,Southern Asia,IN,India,印度,Pune,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,3
+Asia,Southern Asia,IN,India,印度,Shillong,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Southern Asia,IN,India,印度,Thrissur,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IN.svg,1
+Asia,Western Asia,IQ,Iraq,伊拉克,Baghdad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IQ.svg,1
+Asia,Southern Asia,IR,Iran,伊朗,Lamerd,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IR.svg,1
+Asia,Southern Asia,IR,Iran,伊朗,Tehran,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IR.svg,7
+Asia,Eastern Asia,JP,Japan,日本,Aihara,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,2
+Asia,Eastern Asia,JP,Japan,日本,Chiba,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,13
+Asia,Eastern Asia,JP,Japan,日本,Hamamatsu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Ibaraki,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Kawaguchi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Kyoto,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,2
+Asia,Eastern Asia,JP,Japan,日本,Matsuyama,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Nagoya,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Obihiro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Osaka,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,10
+Asia,Eastern Asia,JP,Japan,日本,Sapporo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,1
+Asia,Eastern Asia,JP,Japan,日本,Tokyo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/JP.svg,94
+Asia,Central Asia,KG,Kyrgyzstan,吉尔吉斯斯坦,Bishkek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KG.svg,1
+Asia,South-eastern Asia,KH,Cambodia,柬埔寨,Phnom Penh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KH.svg,5
+Asia,Eastern Asia,KR,South Korea,韩国,Chuncheon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KR.svg,2
+Asia,Eastern Asia,KR,South Korea,韩国,Seoul,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KR.svg,26
+Asia,Eastern Asia,KR,South Korea,韩国,Suwon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KR.svg,1
+Asia,Western Asia,KW,Kuwait,科威特,Kuwait City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KW.svg,1
+Asia,Central Asia,KZ,Kazakhstan,哈萨克斯坦,Aktau,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KZ.svg,1
+Asia,Central Asia,KZ,Kazakhstan,哈萨克斯坦,Almaty,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KZ.svg,5
+Asia,Central Asia,KZ,Kazakhstan,哈萨克斯坦,Astana,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KZ.svg,1
+Asia,Central Asia,KZ,Kazakhstan,哈萨克斯坦,Karagandy,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/KZ.svg,1
+Asia,South-eastern Asia,LA,Laos,老挝,Vientiane,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/LA.svg,4
+Asia,Western Asia,LB,Lebanon,黎巴嫩,Sidon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/LB.svg,1
+Asia,South-eastern Asia,MM,Myanmar,缅甸,Yangon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MM.svg,1
+Asia,Eastern Asia,MO,Macao,澳门,Macau,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MO.svg,1
+Asia,Southern Asia,MV,Maldives,马尔代夫,Male,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MV.svg,1
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Cyberjaya,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,11
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Ipoh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,1
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Johor Bahru,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,7
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Kota Kinabalu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,4
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Kuala Lumpur,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,38
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Kuching,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,2
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Sepang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,1
+Asia,South-eastern Asia,MY,Malaysia,马来西亚,Seremban,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MY.svg,2
+Asia,Southern Asia,NP,Nepal,尼泊尔,Kathmandu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NP.svg,2
+Asia,Western Asia,OM,Oman,阿曼,Muscat,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/OM.svg,1
+Asia,South-eastern Asia,PH,Philippines,菲律宾,Butuan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PH.svg,1
+Asia,South-eastern Asia,PH,Philippines,菲律宾,Cebu City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PH.svg,2
+Asia,South-eastern Asia,PH,Philippines,菲律宾,Manila,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PH.svg,5
+Asia,South-eastern Asia,PH,Philippines,菲律宾,Quezon City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PH.svg,3
+Asia,South-eastern Asia,PH,Philippines,菲律宾,Taguig,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PH.svg,1
+Asia,Southern Asia,PK,Pakistan,巴基斯坦,Islamabad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PK.svg,6
+Asia,Southern Asia,PK,Pakistan,巴基斯坦,Karachi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PK.svg,4
+Asia,Southern Asia,PK,Pakistan,巴基斯坦,Lahore,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PK.svg,1
+Asia,Western Asia,QA,Qatar,卡塔尔,Doha,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/QA.svg,2
+Asia,Eastern Europe,RU,Russia,俄罗斯,Kazan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,4
+Asia,Eastern Europe,RU,Russia,俄罗斯,Kemerovo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,2
+Asia,Eastern Europe,RU,Russia,俄罗斯,Khabarovsk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Krasnodar,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,2
+Asia,Eastern Europe,RU,Russia,俄罗斯,Moscow,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,98
+Asia,Eastern Europe,RU,Russia,俄罗斯,Nizhniy Novgorod,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Novosibirsk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,7
+Asia,Eastern Europe,RU,Russia,俄罗斯,Orenburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Penza,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Saint Petersburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,18
+Asia,Eastern Europe,RU,Russia,俄罗斯,Taganrog,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,3
+Asia,Eastern Europe,RU,Russia,俄罗斯,Tomsk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Tula,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Tver,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Ufa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Eastern Europe,RU,Russia,俄罗斯,Vladivostok,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,5
+Asia,Eastern Europe,RU,Russia,俄罗斯,Yuzhno-Sakhalinsk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Asia,Western Asia,SA,Saudi Arabia,沙特阿拉伯,Jeddah,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SA.svg,2
+Asia,Western Asia,SA,Saudi Arabia,沙特阿拉伯,Riyadh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SA.svg,2
+Asia,Western Asia,SA,Saudi Arabia,沙特阿拉伯,Thuwal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SA.svg,1
+Asia,South-eastern Asia,SG,Singapore,新加坡,Singapore,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SG.svg,172
+Asia,South-eastern Asia,TH,Thailand,泰国,Bangkok,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,27
+Asia,South-eastern Asia,TH,Thailand,泰国,Chiang Mai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,4
+Asia,South-eastern Asia,TH,Thailand,泰国,Chiang Rai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Chon Buri,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,5
+Asia,South-eastern Asia,TH,Thailand,泰国,Chumphon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Hat Yai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,2
+Asia,South-eastern Asia,TH,Thailand,泰国,Kabin Buri,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Khon Kaen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,3
+Asia,South-eastern Asia,TH,Thailand,泰国,Lampang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Nakhon Pathom,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,4
+Asia,South-eastern Asia,TH,Thailand,泰国,Nakhon Ratchasima,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,3
+Asia,South-eastern Asia,TH,Thailand,泰国,Nakhon Sawan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Nakhon Si Thammarat,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Pathum Thani,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,2
+Asia,South-eastern Asia,TH,Thailand,泰国,Pattani,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Pattaya,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,2
+Asia,South-eastern Asia,TH,Thailand,泰国,Phetchaburi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Phitsanulok,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,3
+Asia,South-eastern Asia,TH,Thailand,泰国,Phra Nakhon Si Ayutthaya,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,3
+Asia,South-eastern Asia,TH,Thailand,泰国,Phuket,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Rayong,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,2
+Asia,South-eastern Asia,TH,Thailand,泰国,Sai Buri,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Sakon Nakhon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Samut Prakan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,3
+Asia,South-eastern Asia,TH,Thailand,泰国,Samut Sakhon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Saraburi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Si Racha,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Surat Thani,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,3
+Asia,South-eastern Asia,TH,Thailand,泰国,Tha Tum,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,2
+Asia,South-eastern Asia,TH,Thailand,泰国,Ubon Ratchathani,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,South-eastern Asia,TH,Thailand,泰国,Udon Thani,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TH.svg,1
+Asia,Central Asia,TJ,Tajikistan,塔吉克斯坦,Dushanbe,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TJ.svg,1
+Asia,Western Asia,TR,Turkey,土耳其,Ankara,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TR.svg,1
+Asia,Western Asia,TR,Turkey,土耳其,Bursa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TR.svg,5
+Asia,Western Asia,TR,Turkey,土耳其,Istanbul,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TR.svg,20
+Asia,Western Asia,TR,Turkey,土耳其,Trabzon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TR.svg,1
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Kaohsiung,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,1
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Nantou,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,1
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,New Taipei City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,1
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Pingtung,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,1
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Taichung,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,11
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Tainan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,3
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Taipei,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,46
+Asia,Eastern Asia,TW,Taiwan China,中国台湾,Yilan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TW.svg,1
+Asia,South-eastern Asia,VN,Viet Nam,越南,Ha Long,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VN.svg,1
+Asia,South-eastern Asia,VN,Viet Nam,越南,Haiphong,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VN.svg,1
+Asia,South-eastern Asia,VN,Viet Nam,越南,Hanoi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VN.svg,13
+Asia,South-eastern Asia,VN,Viet Nam,越南,Ho Chi Minh City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VN.svg,1
+Europe,Southern Europe,AD,Andorra,安道尔,Andorra la Vella,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AD.svg,1
+Europe,Southern Europe,AL,Albania,阿尔巴尼亚,Tirana,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AL.svg,14
+Europe,Western Europe,AT,Austria,奥地利,Frankenburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,1
+Europe,Western Europe,AT,Austria,奥地利,Graz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,4
+Europe,Western Europe,AT,Austria,奥地利,Gussing,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,1
+Europe,Western Europe,AT,Austria,奥地利,Innsbruck,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,2
+Europe,Western Europe,AT,Austria,奥地利,Ludersdorf,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,2
+Europe,Western Europe,AT,Austria,奥地利,Nebelberg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,1
+Europe,Western Europe,AT,Austria,奥地利,Vienna,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AT.svg,39
+Europe,Southern Europe,BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Novi Travnik,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BA.svg,2
+Europe,Southern Europe,BA,Bosnia and Herzegovina,波斯尼亚和黑塞哥维那,Sarajevo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BA.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Antwerpen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,2
+Europe,Western Europe,BE,Belgium,比利时,Beringen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Brussels,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,9
+Europe,Western Europe,BE,Belgium,比利时,Genk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Gent,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,2
+Europe,Western Europe,BE,Belgium,比利时,Heusden,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Leuven,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Mechelen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,2
+Europe,Western Europe,BE,Belgium,比利时,Namur,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Paal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Western Europe,BE,Belgium,比利时,Sint-Truiden,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BE.svg,1
+Europe,Eastern Europe,BG,Bulgaria,保加利亚,Botevgrad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BG.svg,1
+Europe,Eastern Europe,BG,Bulgaria,保加利亚,Dobrich,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BG.svg,1
+Europe,Eastern Europe,BG,Bulgaria,保加利亚,Plovdiv,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BG.svg,1
+Europe,Eastern Europe,BG,Bulgaria,保加利亚,Sofia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BG.svg,37
+Europe,Eastern Europe,BG,Bulgaria,保加利亚,Varna,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BG.svg,1
+Europe,Eastern Europe,BY,Belarus,白俄罗斯,Brest,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BY.svg,1
+Europe,Eastern Europe,BY,Belarus,白俄罗斯,Lida,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BY.svg,1
+Europe,Eastern Europe,BY,Belarus,白俄罗斯,Minsk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BY.svg,8
+Europe,Western Europe,CH,Switzerland,瑞士,Basel,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Bern,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,10
+Europe,Western Europe,CH,Switzerland,瑞士,Diessenhofen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Geneva,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,4
+Europe,Western Europe,CH,Switzerland,瑞士,Gland,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,La Chaux-de-Fonds,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Lausanne,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,5
+Europe,Western Europe,CH,Switzerland,瑞士,Luzern,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Motiers,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Rapperswil,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Satigny,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Travers,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Europe,CH,Switzerland,瑞士,Zurich,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,34
+Europe,Western Europe,CH,Switzerland,瑞士,Zurich (Kreis 11),https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CH.svg,1
+Europe,Western Asia,CY,Cyprus,塞浦路斯,Larnaca,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CY.svg,2
+Europe,Western Asia,CY,Cyprus,塞浦路斯,Nicosia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CY.svg,1
+Europe,Eastern Europe,CZ,Czech Republic,捷克,Brno,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CZ.svg,2
+Europe,Eastern Europe,CZ,Czech Republic,捷克,Liberec,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CZ.svg,1
+Europe,Eastern Europe,CZ,Czech Republic,捷克,Ostrava,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CZ.svg,3
+Europe,Eastern Europe,CZ,Czech Republic,捷克,Prague,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CZ.svg,16
+Europe,Eastern Europe,CZ,Czech Republic,捷克,Zelesice,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CZ.svg,1
+Europe,Western Europe,DE,Germany,德国,Aachen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,7
+Europe,Western Europe,DE,Germany,德国,Aalen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Aschaffenburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Augustdorf,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Bad Griesbach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Bad Kreuznach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Berlin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,25
+Europe,Western Europe,DE,Germany,德国,Bonn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Bremen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Cologne,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Deggendorf,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Dortmund,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Drenke,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Duren,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Dusseldorf,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,16
+Europe,Western Europe,DE,Germany,德国,Erlangen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Eschershausen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Essen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,4
+Europe,Western Europe,DE,Germany,德国,Falkenstein,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,96
+Europe,Western Europe,DE,Germany,德国,Frankfurt,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,174
+Europe,Western Europe,DE,Germany,德国,Freiburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Giessen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Gorlitz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Hamburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,8
+Europe,Western Europe,DE,Germany,德国,Hannover,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,3
+Europe,Western Europe,DE,Germany,德国,Helvesiek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Ingolstadt,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Jena,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Karlsruhe,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,11
+Europe,Western Europe,DE,Germany,德国,Koblenz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Koln,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Krefeld,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Landau in der Pfalz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Leinfelden-Echterdingen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Leipzig,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,6
+Europe,Western Europe,DE,Germany,德国,Limburg an der Lahn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Lubeck,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Ludenscheid,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Luneburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Mainz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Mannheim,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Marburg an der Lahn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Munich,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,8
+Europe,Western Europe,DE,Germany,德国,Nordhorn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,2
+Europe,Western Europe,DE,Germany,德国,Nuremberg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,77
+Europe,Western Europe,DE,Germany,德国,Offenbach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Overath,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Plauen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Rathenow,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Rheda-Wiedenbruck,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Rosenheim,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Rotenburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Schweinfurt,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Stadtallendorf,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Viernheim,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Volkach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Wandsbek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Western Europe,DE,Germany,德国,Wertheim,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DE.svg,1
+Europe,Northern Europe,DK,Denmark,丹麦,Arhus,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,12
+Europe,Northern Europe,DK,Denmark,丹麦,Copenhagen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,12
+Europe,Northern Europe,DK,Denmark,丹麦,Esbjerg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,1
+Europe,Northern Europe,DK,Denmark,丹麦,Farum,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,1
+Europe,Northern Europe,DK,Denmark,丹麦,Kolding,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,1
+Europe,Northern Europe,DK,Denmark,丹麦,Odense,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,1
+Europe,Northern Europe,DK,Denmark,丹麦,Roskilde,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/DK.svg,1
+Europe,Northern Europe,EE,Estonia,爱沙尼亚,Johvi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EE.svg,2
+Europe,Northern Europe,EE,Estonia,爱沙尼亚,Narva,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EE.svg,2
+Europe,Northern Europe,EE,Estonia,爱沙尼亚,Palamuse,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EE.svg,1
+Europe,Northern Europe,EE,Estonia,爱沙尼亚,Tallinn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EE.svg,14
+Europe,Northern Europe,EE,Estonia,爱沙尼亚,Tartu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EE.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Alicante,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,2
+Europe,Southern Europe,ES,Spain,西班牙,Anguciana,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Barcelona,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,6
+Europe,Southern Europe,ES,Spain,西班牙,Girona,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Laredo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,3
+Europe,Southern Europe,ES,Spain,西班牙,Logrono,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,4
+Europe,Southern Europe,ES,Spain,西班牙,Madrid,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,32
+Europe,Southern Europe,ES,Spain,西班牙,Manacor,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Marbella,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Mataro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Murcia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Sevilla,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Valencia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Southern Europe,ES,Spain,西班牙,Zaragoza,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/ES.svg,1
+Europe,Northern Europe,FI,Finland,芬兰,Helsinki,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FI.svg,111
+Europe,Northern Europe,FI,Finland,芬兰,Kotka,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FI.svg,1
+Europe,Northern Europe,FI,Finland,芬兰,Lappeenranta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FI.svg,1
+Europe,Northern Europe,FO,Faroe Islands,法罗群岛,Torshavn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FO.svg,1
+Europe,Western Europe,FR,France,法国,Annecy-le-Vieux,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Aurillac,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Bordeaux,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Calais,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,7
+Europe,Western Europe,FR,France,法国,Castres,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Chalons-en-Champagne,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Creteil,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Dunkerque,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,6
+Europe,Western Europe,FR,France,法国,Elancourt,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Gravelines,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,5
+Europe,Western Europe,FR,France,法国,Ivry-sur-Seine,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Lauterbourg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,11
+Europe,Western Europe,FR,France,法国,Les Mureaux,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Lille,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,2
+Europe,Western Europe,FR,France,法国,Lyon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,4
+Europe,Western Europe,FR,France,法国,Magny-les-Hameaux,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Marseille,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,13
+Europe,Western Europe,FR,France,法国,Montevrain,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Montpellier,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Mulhouse,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Nice,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Paris,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,50
+Europe,Western Europe,FR,France,法国,Reims,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,3
+Europe,Western Europe,FR,France,法国,Roubaix,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,38
+Europe,Western Europe,FR,France,法国,Sens,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Strasbourg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,5
+Europe,Western Europe,FR,France,法国,Toulouse,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Tours,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Velizy-Villacoublay,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Western Europe,FR,France,法国,Vitry-sur-Seine,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/FR.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Basingstoke,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Birmingham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,7
+Europe,Northern Europe,GB,United Kingdom,英国,Blackpool,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Bradford,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Brent,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,3
+Europe,Northern Europe,GB,United Kingdom,英国,Bury St Edmunds,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Cambridge,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Cardiff,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,2
+Europe,Northern Europe,GB,United Kingdom,英国,Cheltenham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,4
+Europe,Northern Europe,GB,United Kingdom,英国,Colchester,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Coldingham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Coventry,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,5
+Europe,Northern Europe,GB,United Kingdom,英国,Edinburgh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Farnborough,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Farnham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Gloucester,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Kendal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Laurencekirk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Levisham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,London,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,98
+Europe,Northern Europe,GB,United Kingdom,英国,Luton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Macclesfield,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Maidenhead,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,2
+Europe,Northern Europe,GB,United Kingdom,英国,Manchester,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,7
+Europe,Northern Europe,GB,United Kingdom,英国,Milton Keynes,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Newcastle upon Tyne,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Northampton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Nottingham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Oxford,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Peterborough,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Pickering,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Slough,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Southampton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Stoke-on-Trent,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Swindon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Tipton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Woking,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,Worcester,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Northern Europe,GB,United Kingdom,英国,York,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GB.svg,1
+Europe,Southern Europe,GR,Greece,希腊,Athens,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GR.svg,8
+Europe,Southern Europe,GR,Greece,希腊,Gerakini,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GR.svg,1
+Europe,Southern Europe,GR,Greece,希腊,Rodos,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GR.svg,1
+Europe,Southern Europe,GR,Greece,希腊,Thessaloniki,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GR.svg,3
+Europe,Southern Europe,HR,Croatia,克罗地亚,Karlovac,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HR.svg,1
+Europe,Southern Europe,HR,Croatia,克罗地亚,Sisak,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HR.svg,2
+Europe,Southern Europe,HR,Croatia,克罗地亚,Zagreb,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HR.svg,10
+Europe,Eastern Europe,HU,Honduras,洪都拉斯,Bikal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HU.svg,1
+Europe,Eastern Europe,HU,Honduras,洪都拉斯,Budapest,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HU.svg,12
+Europe,Eastern Europe,HU,Honduras,洪都拉斯,Nyiregyhaza,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/HU.svg,1
+Europe,Northern Europe,IE,Ireland,爱尔兰,An Muileann gCearr,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IE.svg,1
+Europe,Northern Europe,IE,Ireland,爱尔兰,Cork,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IE.svg,1
+Europe,Northern Europe,IE,Ireland,爱尔兰,Dublin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IE.svg,23
+Europe,Northern Europe,IE,Ireland,爱尔兰,Tallaght,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IE.svg,1
+Europe,Northern Europe,IM,Isle of Man,马恩岛,Douglas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IM.svg,1
+Europe,Northern Europe,IS,Iceland,冰岛,Reykjavik,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IS.svg,6
+Europe,Southern Europe,IT,Italy,意大利,Arezzo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,3
+Europe,Southern Europe,IT,Italy,意大利,Bologna,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Catanzaro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Frosinone,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Macerata,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,2
+Europe,Southern Europe,IT,Italy,意大利,Milan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,17
+Europe,Southern Europe,IT,Italy,意大利,Monza,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,2
+Europe,Southern Europe,IT,Italy,意大利,Palermo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,2
+Europe,Southern Europe,IT,Italy,意大利,Piacenza,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,2
+Europe,Southern Europe,IT,Italy,意大利,Pisa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Pomezia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Ponte San Pietro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Rimini,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Rome,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,4
+Europe,Southern Europe,IT,Italy,意大利,Salerno,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Taurianova,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,1
+Europe,Southern Europe,IT,Italy,意大利,Turin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/IT.svg,2
+Europe,Northern Europe,LT,Lithuania,立陶宛,Siauliai,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/LT.svg,10
+Europe,Northern Europe,LT,Lithuania,立陶宛,Vilnius,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/LT.svg,12
+Europe,Western Europe,LU,Luxembourg,卢森堡,Luxembourg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/LU.svg,2
+Europe,Northern Europe,LV,Latvia,拉脱维亚,Riga,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/LV.svg,16
+Europe,Eastern Europe,MD,Moldova,摩尔多瓦,Chisinau,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MD.svg,16
+Europe,Southern Europe,MK,Macedonia,马其顿,Bitola,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MK.svg,1
+Europe,Southern Europe,MK,Macedonia,马其顿,Skopje,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MK.svg,6
+Europe,Southern Europe,MT,Malta,马耳他,Hamrun,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MT.svg,1
+Europe,Southern Europe,MT,Malta,马耳他,Qormi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MT.svg,1
+Europe,Southern Europe,MT,Malta,马耳他,San Pawl il-Bahar,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MT.svg,2
+Europe,Southern Europe,MT,Malta,马耳他,Valletta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MT.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Almelo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Almere Buiten,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Almere Stad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,4
+Europe,Western Europe,NL,Netherlands,荷兰,Amersfoort,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Amsterdam,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,189
+Europe,Western Europe,NL,Netherlands,荷兰,Apeldoorn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Arnhem,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Assen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Boekel,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Boxmeer,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Brummen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Delfzijl,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Deventer,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Driebergen-Rijsenburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Dronten,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,8
+Europe,Western Europe,NL,Netherlands,荷兰,Duiven,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Ede,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Eindhoven,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,6
+Europe,Western Europe,NL,Netherlands,荷兰,Emmen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Enschede,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,5
+Europe,Western Europe,NL,Netherlands,荷兰,Eygelshoven,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,6
+Europe,Western Europe,NL,Netherlands,荷兰,Gemert,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Goes,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Gorredijk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Gouda,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Goudswaard,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Groningen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,3
+Europe,Western Europe,NL,Netherlands,荷兰,Hague,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Heerde,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Heerlen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Helmond,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Hengelo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Hindeloopen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,IJsselstein,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Lekkerkerk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Lelystad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,14
+Europe,Western Europe,NL,Netherlands,荷兰,Maastricht,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,11
+Europe,Western Europe,NL,Netherlands,荷兰,Meppel,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,4
+Europe,Western Europe,NL,Netherlands,荷兰,Middelburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,3
+Europe,Western Europe,NL,Netherlands,荷兰,Moordrecht,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Nieuw-Beijerland,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Nijmegen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,3
+Europe,Western Europe,NL,Netherlands,荷兰,Numansdorp,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Oegstgeest,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Ottersum,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Poortugaal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Raamsdonksveer,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Reek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Rotterdam,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,18
+Europe,Western Europe,NL,Netherlands,荷兰,Strijen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Terneuzen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Tholen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Tiel,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Uden,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Uithoorn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Utrecht,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,2
+Europe,Western Europe,NL,Netherlands,荷兰,Velserbroek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Venlo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Zandvoort,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Zelhem,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Zevenbergen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Zutphen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,1
+Europe,Western Europe,NL,Netherlands,荷兰,Zwolle,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NL.svg,3
+Europe,Northern Europe,NO,Norway,挪威,Brumunddal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,1
+Europe,Northern Europe,NO,Norway,挪威,Haugesund,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,1
+Europe,Northern Europe,NO,Norway,挪威,Kristiansand,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,1
+Europe,Northern Europe,NO,Norway,挪威,Oslo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,5
+Europe,Northern Europe,NO,Norway,挪威,Sandefjord,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,16
+Europe,Northern Europe,NO,Norway,挪威,Stavanger,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,1
+Europe,Northern Europe,NO,Norway,挪威,Stjordal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NO.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Bytom,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Czestochowa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,2
+Europe,Eastern Europe,PL,Poland,波兰,Gdansk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,8
+Europe,Eastern Europe,PL,Poland,波兰,Gostynin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,2
+Europe,Eastern Europe,PL,Poland,波兰,Kalisz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Krakow,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,4
+Europe,Eastern Europe,PL,Poland,波兰,Lipinki,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Lodz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Poznan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,3
+Europe,Eastern Europe,PL,Poland,波兰,Szczecin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Tymowa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Warsaw,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,52
+Europe,Eastern Europe,PL,Poland,波兰,Wolomin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,1
+Europe,Eastern Europe,PL,Poland,波兰,Wroclaw,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PL.svg,3
+Europe,Southern Europe,PT,Portugal,葡萄牙,Barreiro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Braga,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Castelo Branco,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,2
+Europe,Southern Europe,PT,Portugal,葡萄牙,Chaves,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Entroncamento,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,2
+Europe,Southern Europe,PT,Portugal,葡萄牙,Gondomar,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,3
+Europe,Southern Europe,PT,Portugal,葡萄牙,Leiria,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Lisbon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,10
+Europe,Southern Europe,PT,Portugal,葡萄牙,Porto,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,4
+Europe,Southern Europe,PT,Portugal,葡萄牙,Queluz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Salvaterra de Magos,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Setubal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Sintra,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Sobralinho,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Southern Europe,PT,Portugal,葡萄牙,Vagos,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PT.svg,1
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Brasov,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,1
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Bucharest,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,29
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Constanta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,3
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Galati,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,2
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Iasi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,2
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Navodari,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,1
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Oradea,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,17
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Ploiesti,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,2
+Europe,Eastern Europe,RO,Romania,罗马尼亚,Timisoara,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RO.svg,7
+Europe,Southern Europe,RS,Serbia,塞尔维亚,Belgrade,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RS.svg,12
+Europe,Southern Europe,RS,Serbia,塞尔维亚,Paracin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RS.svg,1
+Europe,Eastern Europe,RU,Russia,俄罗斯,Tambov,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/RU.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Alingsas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,3
+Europe,Northern Europe,SE,Sweden,瑞典,Borlange,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,2
+Europe,Northern Europe,SE,Sweden,瑞典,Goteborg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Herrang,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,3
+Europe,Northern Europe,SE,Sweden,瑞典,Hudiksvall,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Jonkoping,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,2
+Europe,Northern Europe,SE,Sweden,瑞典,Kullavik,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Malmo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Nykvarn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Stockholm,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,56
+Europe,Northern Europe,SE,Sweden,瑞典,Vasteras,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Northern Europe,SE,Sweden,瑞典,Vaxjo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SE.svg,1
+Europe,Southern Europe,SI,Slovenia,斯洛文尼亚,Kranj,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SI.svg,2
+Europe,Southern Europe,SI,Slovenia,斯洛文尼亚,Ljubljana,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SI.svg,2
+Europe,Southern Europe,SI,Slovenia,斯洛文尼亚,Maribor,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SI.svg,3
+Europe,Eastern Europe,SK,Slovakia,斯洛伐克,Bardejov,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SK.svg,1
+Europe,Eastern Europe,SK,Slovakia,斯洛伐克,Bratislava,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SK.svg,11
+Europe,Eastern Europe,SK,Slovakia,斯洛伐克,Kosice,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SK.svg,1
+Europe,Eastern Europe,SK,Slovakia,斯洛伐克,Krupina,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SK.svg,1
+Europe,Eastern Europe,SK,Slovakia,斯洛伐克,Zvolen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SK.svg,3
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Bila Tserkva,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,1
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Cherkasy,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,1
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Chernihiv,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,2
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Dnipro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,2
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Dolynska,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,1
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Khmelnytskyi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,2
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Kyiv,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,15
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Lviv,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,1
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Odesa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,2
+Europe,Eastern Europe,UA,Ukraine,乌克兰,Vinnytsya,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UA.svg,1
+Europe,Eastern Europe,XK,Kosovo,科索沃,Pristina,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/XK.svg,2
+North America,Northern America,CA,Canada,加拿大,Beauharnois,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Calgary,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,4
+North America,Northern America,CA,Canada,加拿大,Cochrane,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Edmonton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,2
+North America,Northern America,CA,Canada,加拿大,Elmira,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Grimsby,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Guelph,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Longueuil,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Markham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Moncton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Montreal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,31
+North America,Northern America,CA,Canada,加拿大,Nanaimo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Olds,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Orillia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Ottawa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,2
+North America,Northern America,CA,Canada,加拿大,Peterborough,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,1
+North America,Northern America,CA,Canada,加拿大,Saint-Laurent,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,6
+North America,Northern America,CA,Canada,加拿大,Toronto,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,44
+North America,Northern America,CA,Canada,加拿大,Vancouver,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,14
+North America,Northern America,CA,Canada,加拿大,Victoria,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,2
+North America,Northern America,CA,Canada,加拿大,Winnipeg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CA.svg,2
+North America,Latin America and the Caribbean,CR,Costa Rica,哥斯达黎加,San Jose,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CR.svg,5
+North America,Latin America and the Caribbean,CW,Curaçao,库拉索,Willemstad,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CW.svg,1
+North America,Latin America and the Caribbean,GT,Guatemala,危地马拉,Guatemala City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GT.svg,1
+North America,Latin America and the Caribbean,MX,Mexico,墨西哥,Ciudad Juarez,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MX.svg,1
+North America,Latin America and the Caribbean,MX,Mexico,墨西哥,Mexico City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MX.svg,1
+North America,Latin America and the Caribbean,MX,Mexico,墨西哥,Morelia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MX.svg,2
+North America,Latin America and the Caribbean,MX,Mexico,墨西哥,Queretaro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MX.svg,8
+North America,Latin America and the Caribbean,MX,Mexico,墨西哥,San Jose del Cabo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/MX.svg,1
+North America,Latin America and the Caribbean,PA,Panama,巴拿马,Panama,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PA.svg,3
+North America,Latin America and the Caribbean,PA,Panama,巴拿马,Panama City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PA.svg,1
+North America,Latin America and the Caribbean,PR,Puerto Rico,波多黎各,Carolina,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PR.svg,1
+North America,Latin America and the Caribbean,PR,Puerto Rico,波多黎各,San Juan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PR.svg,2
+North America,Latin America and the Caribbean,TT,Trinidad and Tobago,特立尼达和多巴哥,Princes Town,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/TT.svg,1
+North America,Northern America,US,United States,美国,Akron,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Allentown,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Alpharetta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Anacortes,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Anaheim,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Andrews,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Ann Arbor,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Arlington,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Arlington Heights,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Ashburn,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,62
+North America,Northern America,US,United States,美国,Atlanta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,16
+North America,Northern America,US,United States,美国,Augusta,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Aurora,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Baltimore,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Bayside,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Bend,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Bethel,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Bier,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Birmingham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Blountstown,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Boston,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,5
+North America,Northern America,US,United States,美国,Boulder,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Bridgewater,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Brunswick,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,4
+North America,Northern America,US,United States,美国,Buffalo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,43
+North America,Northern America,US,United States,美国,Canton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Carson City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,3
+North America,Northern America,US,United States,美国,Cedar Rapids,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Centralia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Charleston,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,7
+North America,Northern America,US,United States,美国,Charlotte,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,5
+North America,Northern America,US,United States,美国,Chicago,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,57
+North America,Northern America,US,United States,美国,Chillicothe,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Cincinnati,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Cleveland,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Columbus,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,6
+North America,Northern America,US,United States,美国,Coram,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Cypress,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,3
+North America,Northern America,US,United States,美国,Dallas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,45
+North America,Northern America,US,United States,美国,Dalles,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,7
+North America,Northern America,US,United States,美国,Davenport,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Dayton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,DeKalb,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Deltona,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Denver,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,7
+North America,Northern America,US,United States,美国,DeSoto,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Durham,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,3
+North America,Northern America,US,United States,美国,Eastover,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Edgewood,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Elgin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Elk Grove,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Fair Harbor,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Falls Church,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Fayetteville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,4
+North America,Northern America,US,United States,美国,Forest City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Fort Collins,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Fort Lauderdale,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Fort Pierce,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Fort Walton Beach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Fort Wayne,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Franklin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Freeport,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Fremont,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,14
+North America,Northern America,US,United States,美国,Front Royal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Gainesville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Gaithersburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Grand Rapids,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Greenburgh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Greeneville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Harrisburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Harvard,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Hattiesburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Havertown,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,3
+North America,Northern America,US,United States,美国,Highland Park,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Hillsboro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,9
+North America,Northern America,US,United States,美国,Honolulu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Houston,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,20
+North America,Northern America,US,United States,美国,Huntsville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Hutchinson,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Indianapolis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Indio,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Iron Mountain,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Island Lake,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Jackson,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Jacksonville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,9
+North America,Northern America,US,United States,美国,Johns Creek,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Joplin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Kannapolis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Kansas City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,42
+North America,Northern America,US,United States,美国,Kennesaw,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Knoxville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Lancaster,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Lansing,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Las Vegas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,9
+North America,Northern America,US,United States,美国,League City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Leesburg,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Lehi,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Liberty Lake,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Long Beach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Los Angeles,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,120
+North America,Northern America,US,United States,美国,Loveland,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Lowell,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Lynnwood,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Madison,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,10
+North America,Northern America,US,United States,美国,Manassas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,30
+North America,Northern America,US,United States,美国,Manhattan,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,McKee,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Memphis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Meridian,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Mesa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Miami,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,26
+North America,Northern America,US,United States,美国,Middletown,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Minneapolis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Mobile,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Monroe,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Monticello,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Mount Pocono,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Mount Prospect,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Munhall,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Naperville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,8
+North America,Northern America,US,United States,美国,New South Memphis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,New York,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,55
+North America,Northern America,US,United States,美国,Newark,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,3
+North America,Northern America,US,United States,美国,Newington,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Newton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Niceville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Norfolk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Norristown,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,O'Fallon,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Ogden,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,5
+North America,Northern America,US,United States,美国,Omaha,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,6
+North America,Northern America,US,United States,美国,Orem,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Orlando,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Palm Bay,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Palo Alto,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Peachtree City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Philadelphia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,10
+North America,Northern America,US,United States,美国,Phoenix,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,10
+North America,Northern America,US,United States,美国,Pierron,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,4
+North America,Northern America,US,United States,美国,Piscataway,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,3
+North America,Northern America,US,United States,美国,Pittsburgh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,4
+North America,Northern America,US,United States,美国,Portland,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,8
+North America,Northern America,US,United States,美国,Prescott,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Raleigh,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,16
+North America,Northern America,US,United States,美国,Randolph,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Rapid City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Reno,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Reston,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,9
+North America,Northern America,US,United States,美国,Richardson,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Ridgewood,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Rochester,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Roseville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Rusk,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Sacramento,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Salt Lake City,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,12
+North America,Northern America,US,United States,美国,San Antonio,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,San Diego,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,San Francisco,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,7
+North America,Northern America,US,United States,美国,San Jose,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,35
+North America,Northern America,US,United States,美国,Sanford,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Santa Clara,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,16
+North America,Northern America,US,United States,美国,Santa Clara Pueblo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Santa Clarita,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Santa Rosa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Sarasota,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Seattle,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,20
+North America,Northern America,US,United States,美国,Secaucus,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,5
+North America,Northern America,US,United States,美国,Sioux Falls,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,South Bend,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Southfield,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Spokane,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,16
+North America,Northern America,US,United States,美国,Springfield,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,10
+North America,Northern America,US,United States,美国,St. Louis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,5
+North America,Northern America,US,United States,美国,Syracuse,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Tacoma,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Tampa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,13
+North America,Northern America,US,United States,美国,Tucson,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Tuscaloosa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Tustin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Valley Forge,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Vero Beach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Virginia Beach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,2
+North America,Northern America,US,United States,美国,Washington,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,5
+North America,Northern America,US,United States,美国,Watsonville,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Wauwatosa,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,West Chester,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,West Palm Beach,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Wilmington,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+North America,Northern America,US,United States,美国,Woodlands,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/US.svg,1
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Brisbane,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,10
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Canberra,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,3
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Geraldton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,1
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Hobart,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,1
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Launceston,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,1
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Mandurah,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,1
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Melbourne,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,9
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Newcastle,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,5
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Perth,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,2
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Sydney,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,56
+Oceania,Australia and New Zealand,AU,Australia,澳大利亚,Wollongong,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AU.svg,1
+Oceania,Micronesia,GU,Guam,关岛,Dededo Village,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/GU.svg,2
+Oceania,Melanesia,NC,New Caledonia,新喀里多尼亚,Noumea,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NC.svg,2
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Auckland,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,17
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Christchurch,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,2
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Clive,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Dunedin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,2
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Hamilton,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Hawera,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Mosgiel,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,New Plymouth,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Paraparaumu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Stratford,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Timaru,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Wellington,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Whanganui,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Australia and New Zealand,NZ,New Zealand,新西兰,Whitianga,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/NZ.svg,1
+Oceania,Melanesia,SB,Solomon Islands,所罗门群岛,Honiara,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/SB.svg,1
+Oceania,Melanesia,VU,Vanuatu,瓦努阿图,Port-Vila,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VU.svg,1
+South America,Latin America and the Caribbean,AR,Argentina,阿根廷,Buenos Aires,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AR.svg,4
+South America,Latin America and the Caribbean,AR,Argentina,阿根廷,Cordoba,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/AR.svg,2
+South America,Latin America and the Caribbean,BO,Bolivia,玻利维亚,La Paz,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BO.svg,3
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Ararangua,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Belo Horizonte,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Bento Goncalves,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Blumenau,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Brasilia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Cachoeiro de Itapemirim,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Campinas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,3
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Campos dos Goytacazes,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Cotia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,4
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Criciuma,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Curitiba,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Florianopolis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Fortaleza,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Foz do Iguacu,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Frederico Westphalen,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Ipatinga,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Jaboticabal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Ji Parana,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Lajeado,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Maceio,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Montes Claros,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Natal,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Nova Friburgo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Nova Prata,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Osasco,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Pimenta Bueno,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Piracicaba,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Porto Alegre,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,5
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Rancharia,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Rio Branco,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Rio de Janeiro,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Salinas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Salvador,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Sao Carlos,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Sao Leopoldo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Sao Paulo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,53
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Serra,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Sertania,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Sinop,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Sorriso,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Taquara,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Teresopolis,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Tijucas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,1
+South America,Latin America and the Caribbean,BR,Brazil,巴西,Vinhedo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/BR.svg,2
+South America,Latin America and the Caribbean,CL,Chile,智利,Curico,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CL.svg,1
+South America,Latin America and the Caribbean,CL,Chile,智利,Santiago,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CL.svg,29
+South America,Latin America and the Caribbean,CL,Chile,智利,Vina del Mar,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CL.svg,5
+South America,Latin America and the Caribbean,CO,Colombia,哥伦比亚,Bogota,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CO.svg,4
+South America,Latin America and the Caribbean,CO,Colombia,哥伦比亚,Medellin,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/CO.svg,1
+South America,Latin America and the Caribbean,EC,Ecuador,厄瓜多尔,Azogues,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EC.svg,1
+South America,Latin America and the Caribbean,EC,Ecuador,厄瓜多尔,Cuenca,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EC.svg,1
+South America,Latin America and the Caribbean,EC,Ecuador,厄瓜多尔,Guayaquil,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EC.svg,1
+South America,Latin America and the Caribbean,EC,Ecuador,厄瓜多尔,Quito,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/EC.svg,1
+South America,Latin America and the Caribbean,PE,Peru,秘鲁,Lima,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PE.svg,5
+South America,Latin America and the Caribbean,PY,Paraguay,巴拉圭,Asuncion,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PY.svg,1
+South America,Latin America and the Caribbean,PY,Paraguay,巴拉圭,Ciudad del Este,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/PY.svg,1
+South America,Latin America and the Caribbean,UY,Uruguay,乌拉圭,Montevideo,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/UY.svg,3
+South America,Latin America and the Caribbean,VE,Venezuela,委内瑞拉,Caracas,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VE.svg,1
+South America,Latin America and the Caribbean,VE,Venezuela,委内瑞拉,Porlamar,https://cdn.jsdelivr.net/npm/country-flag-icons@1.5.5/3x2/VE.svg,1

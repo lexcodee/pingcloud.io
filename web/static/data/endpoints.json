@@ -1,0 +1,1297 @@
+[
+  {
+    "id": 1,
+    "vendor": "AWS",
+    "region_name": "Cape Town (ZA)",
+    "region_id": "af-south-1",
+    "endpoint": "s3.af-south-1.amazonaws.com"
+  },
+  {
+    "id": 2,
+    "vendor": "AWS",
+    "region_name": "Hong Kong (HK)",
+    "region_id": "ap-east-1",
+    "endpoint": "s3.ap-east-1.amazonaws.com"
+  },
+  {
+    "id": 3,
+    "vendor": "AWS",
+    "region_name": "Taipei (TW)",
+    "region_id": "ap-east-2",
+    "endpoint": "s3.ap-east-2.amazonaws.com"
+  },
+  {
+    "id": 4,
+    "vendor": "AWS",
+    "region_name": "Tokyo (JP)",
+    "region_id": "ap-northeast-1",
+    "endpoint": "s3.ap-northeast-1.amazonaws.com"
+  },
+  {
+    "id": 5,
+    "vendor": "AWS",
+    "region_name": "Seoul (KR)",
+    "region_id": "ap-northeast-2",
+    "endpoint": "s3.ap-northeast-2.amazonaws.com"
+  },
+  {
+    "id": 6,
+    "vendor": "AWS",
+    "region_name": "Osaka (JP)",
+    "region_id": "ap-northeast-3",
+    "endpoint": "s3.ap-northeast-3.amazonaws.com"
+  },
+  {
+    "id": 7,
+    "vendor": "AWS",
+    "region_name": "Singapore (SG)",
+    "region_id": "ap-southeast-1",
+    "endpoint": "s3.ap-southeast-1.amazonaws.com"
+  },
+  {
+    "id": 8,
+    "vendor": "AWS",
+    "region_name": "Sydney (AU)",
+    "region_id": "ap-southeast-2",
+    "endpoint": "s3.ap-southeast-2.amazonaws.com"
+  },
+  {
+    "id": 9,
+    "vendor": "AWS",
+    "region_name": "Jakarta (ID)",
+    "region_id": "ap-southeast-3",
+    "endpoint": "s3.ap-southeast-3.amazonaws.com"
+  },
+  {
+    "id": 10,
+    "vendor": "AWS",
+    "region_name": "Melbourne (AU)",
+    "region_id": "ap-southeast-4",
+    "endpoint": "s3.ap-southeast-4.amazonaws.com"
+  },
+  {
+    "id": 11,
+    "vendor": "AWS",
+    "region_name": "Malaysia (MY)",
+    "region_id": "ap-southeast-5",
+    "endpoint": "s3.ap-southeast-5.amazonaws.com"
+  },
+  {
+    "id": 12,
+    "vendor": "AWS",
+    "region_name": "Thailand (TH)",
+    "region_id": "ap-southeast-7",
+    "endpoint": "s3.ap-southeast-7.amazonaws.com"
+  },
+  {
+    "id": 13,
+    "vendor": "AWS",
+    "region_name": "Mumbai (IN)",
+    "region_id": "ap-south-1",
+    "endpoint": "s3.ap-south-1.amazonaws.com"
+  },
+  {
+    "id": 14,
+    "vendor": "AWS",
+    "region_name": "Hyderabad (IN)",
+    "region_id": "ap-south-2",
+    "endpoint": "s3.ap-south-2.amazonaws.com"
+  },
+  {
+    "id": 15,
+    "vendor": "AWS",
+    "region_name": "Canada Central (CA)",
+    "region_id": "ca-central-1",
+    "endpoint": "s3.ca-central-1.amazonaws.com"
+  },
+  {
+    "id": 16,
+    "vendor": "AWS",
+    "region_name": "Calgary (CA)",
+    "region_id": "ca-west-1",
+    "endpoint": "s3.ca-west-1.amazonaws.com"
+  },
+  {
+    "id": 17,
+    "vendor": "AWS",
+    "region_name": "Mexico Central (MX)",
+    "region_id": "mx-central-1",
+    "endpoint": "s3.mx-central-1.amazonaws.com"
+  },
+  {
+    "id": 18,
+    "vendor": "AWS",
+    "region_name": "Frankfurt (DE)",
+    "region_id": "eu-central-1",
+    "endpoint": "s3.eu-central-1.amazonaws.com"
+  },
+  {
+    "id": 19,
+    "vendor": "AWS",
+    "region_name": "Zurich(CH)",
+    "region_id": "eu-central-2",
+    "endpoint": "s3.eu-central-2.amazonaws.com"
+  },
+  {
+    "id": 20,
+    "vendor": "AWS",
+    "region_name": "Stockholm (SE)",
+    "region_id": "eu-north-1",
+    "endpoint": "s3.eu-north-1.amazonaws.com"
+  },
+  {
+    "id": 21,
+    "vendor": "AWS",
+    "region_name": "Milan (IT)",
+    "region_id": "eu-south-1",
+    "endpoint": "s3.eu-south-1.amazonaws.com"
+  },
+  {
+    "id": 22,
+    "vendor": "AWS",
+    "region_name": "Spain (ES)",
+    "region_id": "eu-south-2",
+    "endpoint": "s3.eu-south-2.amazonaws.com"
+  },
+  {
+    "id": 23,
+    "vendor": "AWS",
+    "region_name": "Ireland (IE)",
+    "region_id": "eu-west-1",
+    "endpoint": "s3.eu-west-1.amazonaws.com"
+  },
+  {
+    "id": 24,
+    "vendor": "AWS",
+    "region_name": "London (UK)",
+    "region_id": "eu-west-2",
+    "endpoint": "s3.eu-west-2.amazonaws.com"
+  },
+  {
+    "id": 25,
+    "vendor": "AWS",
+    "region_name": "Paris (FR)",
+    "region_id": "eu-west-3",
+    "endpoint": "s3.eu-west-3.amazonaws.com"
+  },
+  {
+    "id": 26,
+    "vendor": "AWS",
+    "region_name": "UAE (AE)",
+    "region_id": "me-central-1",
+    "endpoint": "s3.me-central-1.amazonaws.com"
+  },
+  {
+    "id": 28,
+    "vendor": "AWS",
+    "region_name": "Israel (IL)",
+    "region_id": "il-central-1",
+    "endpoint": "s3.il-central-1.amazonaws.com"
+  },
+  {
+    "id": 29,
+    "vendor": "AWS",
+    "region_name": "Sao Paulo (BR)",
+    "region_id": "sa-east-1",
+    "endpoint": "s3.sa-east-1.amazonaws.com"
+  },
+  {
+    "id": 30,
+    "vendor": "AWS",
+    "region_name": "N. Virginia (US)",
+    "region_id": "us-east-1",
+    "endpoint": "s3.us-east-1.amazonaws.com"
+  },
+  {
+    "id": 31,
+    "vendor": "AWS",
+    "region_name": "Ohio (US)",
+    "region_id": "us-east-2",
+    "endpoint": "s3.us-east-2.amazonaws.com"
+  },
+  {
+    "id": 32,
+    "vendor": "AWS",
+    "region_name": "N. California (US)",
+    "region_id": "us-west-1",
+    "endpoint": "s3.us-west-1.amazonaws.com"
+  },
+  {
+    "id": 33,
+    "vendor": "AWS",
+    "region_name": "Oregon (US)",
+    "region_id": "us-west-2",
+    "endpoint": "s3.us-west-2.amazonaws.com"
+  },
+  {
+    "id": 34,
+    "vendor": "AWS",
+    "region_name": "Beijing (CN)",
+    "region_id": "cn-north-1",
+    "endpoint": "s3.cn-north-1.amazonaws.com.cn"
+  },
+  {
+    "id": 35,
+    "vendor": "AWS",
+    "region_name": "Ningxia (CN)",
+    "region_id": "cn-northwest-1",
+    "endpoint": "s3.cn-northwest-1.amazonaws.com.cn"
+  },
+  {
+    "id": 36,
+    "vendor": "GCP",
+    "region_name": "Cape Town(ZA)",
+    "region_id": "africa-south1",
+    "endpoint": "logging.africa-south1.rep.googleapis.com"
+  },
+  {
+    "id": 37,
+    "vendor": "GCP",
+    "region_name": "Doha(QA)",
+    "region_id": "me-central1",
+    "endpoint": "logging.me-central1.rep.googleapis.com"
+  },
+  {
+    "id": 38,
+    "vendor": "GCP",
+    "region_name": "Riyadh(SA)",
+    "region_id": "me-central2",
+    "endpoint": "logging.me-central2.rep.googleapis.com"
+  },
+  {
+    "id": 39,
+    "vendor": "GCP",
+    "region_name": "Tel Aviv(IL)",
+    "region_id": "me-west1",
+    "endpoint": "logging.me-west1.rep.googleapis.com"
+  },
+  {
+    "id": 40,
+    "vendor": "GCP",
+    "region_name": "Council Bluffs(US)",
+    "region_id": "us-central1",
+    "endpoint": "logging.us-central1.rep.googleapis.com"
+  },
+  {
+    "id": 41,
+    "vendor": "GCP",
+    "region_name": "Moncks Corner(US)",
+    "region_id": "us-east1",
+    "endpoint": "logging.us-east1.rep.googleapis.com"
+  },
+  {
+    "id": 42,
+    "vendor": "GCP",
+    "region_name": "Ashburn(US)",
+    "region_id": "us-east4",
+    "endpoint": "logging.us-east4.rep.googleapis.com"
+  },
+  {
+    "id": 43,
+    "vendor": "GCP",
+    "region_name": "Columbus(US)",
+    "region_id": "us-east5",
+    "endpoint": "logging.us-east5.rep.googleapis.com"
+  },
+  {
+    "id": 44,
+    "vendor": "GCP",
+    "region_name": "Dallas(US)",
+    "region_id": "us-south1",
+    "endpoint": "logging.us-south1.rep.googleapis.com"
+  },
+  {
+    "id": 45,
+    "vendor": "GCP",
+    "region_name": "The Dalles(US)",
+    "region_id": "us-west1",
+    "endpoint": "logging.us-west1.rep.googleapis.com"
+  },
+  {
+    "id": 46,
+    "vendor": "GCP",
+    "region_name": "Los Angeles(US)",
+    "region_id": "us-west2",
+    "endpoint": "logging.us-west2.rep.googleapis.com"
+  },
+  {
+    "id": 47,
+    "vendor": "GCP",
+    "region_name": "Salt Lake City(US)",
+    "region_id": "us-west3",
+    "endpoint": "logging.us-west3.rep.googleapis.com"
+  },
+  {
+    "id": 48,
+    "vendor": "GCP",
+    "region_name": "Las Vegas(US)",
+    "region_id": "us-west4",
+    "endpoint": "logging.us-west4.rep.googleapis.com"
+  },
+  {
+    "id": 49,
+    "vendor": "GCP",
+    "region_name": "Montreal(CA)",
+    "region_id": "northamerica-northeast1",
+    "endpoint": "logging.northamerica-northeast1.rep.googleapis.com"
+  },
+  {
+    "id": 50,
+    "vendor": "GCP",
+    "region_name": "Toronto(CA)",
+    "region_id": "northamerica-northeast2",
+    "endpoint": "logging.northamerica-northeast2.rep.googleapis.com"
+  },
+  {
+    "id": 51,
+    "vendor": "GCP",
+    "region_name": "Queretaro(MX)",
+    "region_id": "northamerica-south1",
+    "endpoint": "logging.northamerica-south1.rep.googleapis.com"
+  },
+  {
+    "id": 52,
+    "vendor": "GCP",
+    "region_name": "Sao Paulo (BR)",
+    "region_id": "southamerica-east1",
+    "endpoint": "logging.southamerica-east1.rep.googleapis.com"
+  },
+  {
+    "id": 53,
+    "vendor": "GCP",
+    "region_name": "Santiago(CL)",
+    "region_id": "southamerica-west1",
+    "endpoint": "logging.southamerica-west1.rep.googleapis.com"
+  },
+  {
+    "id": 54,
+    "vendor": "GCP",
+    "region_name": "Changhua County(TW)",
+    "region_id": "asia-east1",
+    "endpoint": "logging.asia-east1.rep.googleapis.com"
+  },
+  {
+    "id": 55,
+    "vendor": "GCP",
+    "region_name": "Hong Kong(HK)",
+    "region_id": "asia-east2",
+    "endpoint": "logging.asia-east2.rep.googleapis.com"
+  },
+  {
+    "id": 56,
+    "vendor": "GCP",
+    "region_name": "Tokyo(JP)",
+    "region_id": "asia-northeast1",
+    "endpoint": "logging.asia-northeast1.rep.googleapis.com"
+  },
+  {
+    "id": 57,
+    "vendor": "GCP",
+    "region_name": "Osaka(JP)",
+    "region_id": "asia-northeast2",
+    "endpoint": "logging.asia-northeast2.rep.googleapis.com"
+  },
+  {
+    "id": 58,
+    "vendor": "GCP",
+    "region_name": "Seoul(KR)",
+    "region_id": "asia-northeast3",
+    "endpoint": "logging.asia-northeast3.rep.googleapis.com"
+  },
+  {
+    "id": 59,
+    "vendor": "GCP",
+    "region_name": "Mumbai(IN)",
+    "region_id": "asia-south1",
+    "endpoint": "logging.asia-south1.rep.googleapis.com"
+  },
+  {
+    "id": 60,
+    "vendor": "GCP",
+    "region_name": "Delhi(IN)",
+    "region_id": "asia-south2",
+    "endpoint": "logging.asia-south2.rep.googleapis.com"
+  },
+  {
+    "id": 61,
+    "vendor": "GCP",
+    "region_name": "Singapore(SG)",
+    "region_id": "asia-southeast1",
+    "endpoint": "logging.asia-southeast1.rep.googleapis.com"
+  },
+  {
+    "id": 62,
+    "vendor": "GCP",
+    "region_name": "Jakarta(ID)",
+    "region_id": "asia-southeast2",
+    "endpoint": "logging.asia-southeast2.rep.googleapis.com"
+  },
+  {
+    "id": 63,
+    "vendor": "GCP",
+    "region_name": "Sydney(AU)",
+    "region_id": "australia-southeast1",
+    "endpoint": "logging.australia-southeast1.rep.googleapis.com"
+  },
+  {
+    "id": 64,
+    "vendor": "GCP",
+    "region_name": "Melbourne(AU)",
+    "region_id": "australia-southeast2",
+    "endpoint": "logging.australia-southeast2.rep.googleapis.com"
+  },
+  {
+    "id": 65,
+    "vendor": "GCP",
+    "region_name": "Warsaw(PL)",
+    "region_id": "europe-central2",
+    "endpoint": "logging.europe-central2.rep.googleapis.com"
+  },
+  {
+    "id": 66,
+    "vendor": "GCP",
+    "region_name": "Hamina(FI)",
+    "region_id": "europe-north1",
+    "endpoint": "logging.europe-north1.rep.googleapis.com"
+  },
+  {
+    "id": 67,
+    "vendor": "GCP",
+    "region_name": "Stockholm(SE)",
+    "region_id": "europe-north2",
+    "endpoint": "logging.europe-north2.rep.googleapis.com"
+  },
+  {
+    "id": 68,
+    "vendor": "GCP",
+    "region_name": "Madrid(ES)",
+    "region_id": "europe-southwest1",
+    "endpoint": "logging.europe-southwest1.rep.googleapis.com"
+  },
+  {
+    "id": 69,
+    "vendor": "GCP",
+    "region_name": "St. Ghislain(BE)",
+    "region_id": "europe-west1",
+    "endpoint": "logging.europe-west1.rep.googleapis.com"
+  },
+  {
+    "id": 70,
+    "vendor": "GCP",
+    "region_name": "London(GB)",
+    "region_id": "europe-west2",
+    "endpoint": "logging.europe-west2.rep.googleapis.com"
+  },
+  {
+    "id": 71,
+    "vendor": "GCP",
+    "region_name": "Frankfurt(DE)",
+    "region_id": "europe-west3",
+    "endpoint": "logging.europe-west3.rep.googleapis.com"
+  },
+  {
+    "id": 72,
+    "vendor": "GCP",
+    "region_name": "Eemshaven(NL)",
+    "region_id": "europe-west4",
+    "endpoint": "logging.europe-west4.rep.googleapis.com"
+  },
+  {
+    "id": 73,
+    "vendor": "GCP",
+    "region_name": "Zurich(CH)",
+    "region_id": "europe-west6",
+    "endpoint": "logging.europe-west6.rep.googleapis.com"
+  },
+  {
+    "id": 74,
+    "vendor": "GCP",
+    "region_name": "Milan(IT)",
+    "region_id": "europe-west8",
+    "endpoint": "logging.europe-west8.rep.googleapis.com"
+  },
+  {
+    "id": 75,
+    "vendor": "GCP",
+    "region_name": "Paris(FR)",
+    "region_id": "europe-west9",
+    "endpoint": "logging.europe-west9.rep.googleapis.com"
+  },
+  {
+    "id": 76,
+    "vendor": "GCP",
+    "region_name": "Berlin(DE)",
+    "region_id": "europe-west10",
+    "endpoint": "logging.europe-west10.rep.googleapis.com"
+  },
+  {
+    "id": 77,
+    "vendor": "GCP",
+    "region_name": "Turin(IT)",
+    "region_id": "europe-west12",
+    "endpoint": "logging.europe-west12.rep.googleapis.com"
+  },
+  {
+    "id": 78,
+    "vendor": "Alibaba",
+    "region_name": "Hangzhou (CN)",
+    "region_id": "cn-hangzhou",
+    "endpoint": "oss-cn-hangzhou.aliyuncs.com"
+  },
+  {
+    "id": 79,
+    "vendor": "Alibaba",
+    "region_name": "Shanghai (CN)",
+    "region_id": "cn-shanghai",
+    "endpoint": "oss-cn-shanghai.aliyuncs.com"
+  },
+  {
+    "id": 80,
+    "vendor": "Alibaba",
+    "region_name": "Beijing (CN)",
+    "region_id": "cn-beijing",
+    "endpoint": "oss-cn-beijing.aliyuncs.com"
+  },
+  {
+    "id": 81,
+    "vendor": "Alibaba",
+    "region_name": "Ulanqab (CN)",
+    "region_id": "cn-wulanchabu",
+    "endpoint": "oss-cn-wulanchabu.aliyuncs.com"
+  },
+  {
+    "id": 82,
+    "vendor": "Alibaba",
+    "region_name": "Guangzhou (CN)",
+    "region_id": "cn-guangzhou",
+    "endpoint": "oss-cn-guangzhou.aliyuncs.com"
+  },
+  {
+    "id": 83,
+    "vendor": "Alibaba",
+    "region_name": "Chengdu (CN)",
+    "region_id": "cn-chengdu",
+    "endpoint": "oss-cn-chengdu.aliyuncs.com"
+  },
+  {
+    "id": 84,
+    "vendor": "Alibaba",
+    "region_name": "Hong Kong (CN)",
+    "region_id": "cn-hongkong",
+    "endpoint": "oss-cn-hongkong.aliyuncs.com"
+  },
+  {
+    "id": 85,
+    "vendor": "Alibaba",
+    "region_name": "Tokyo (JP)",
+    "region_id": "ap-northeast-1",
+    "endpoint": "oss-ap-northeast-1.aliyuncs.com"
+  },
+  {
+    "id": 86,
+    "vendor": "Alibaba",
+    "region_name": "Seoul (KR)",
+    "region_id": "ap-northeast-2",
+    "endpoint": "oss-ap-northeast-2.aliyuncs.com"
+  },
+  {
+    "id": 87,
+    "vendor": "Alibaba",
+    "region_name": "Singapore (SG)",
+    "region_id": "ap-southeast-1",
+    "endpoint": "oss-ap-southeast-1.aliyuncs.com"
+  },
+  {
+    "id": 88,
+    "vendor": "Alibaba",
+    "region_name": "Kuala Lumpur (MY)",
+    "region_id": "ap-southeast-3",
+    "endpoint": "oss-ap-southeast-3.aliyuncs.com"
+  },
+  {
+    "id": 89,
+    "vendor": "Alibaba",
+    "region_name": "Jakarta (ID)",
+    "region_id": "ap-southeast-5",
+    "endpoint": "oss-ap-southeast-5.aliyuncs.com"
+  },
+  {
+    "id": 90,
+    "vendor": "Alibaba",
+    "region_name": "Manila (PH)",
+    "region_id": "ap-southeast-6",
+    "endpoint": "oss-ap-southeast-6.aliyuncs.com"
+  },
+  {
+    "id": 91,
+    "vendor": "Alibaba",
+    "region_name": "Bangkok (TH)",
+    "region_id": "ap-southeast-7",
+    "endpoint": "oss-ap-southeast-7.aliyuncs.com"
+  },
+  {
+    "id": 92,
+    "vendor": "Alibaba",
+    "region_name": "Frankfurt (DE)",
+    "region_id": "eu-central-1",
+    "endpoint": "oss-eu-central-1.aliyuncs.com"
+  },
+  {
+    "id": 93,
+    "vendor": "Alibaba",
+    "region_name": "London (GB)",
+    "region_id": "eu-west-1",
+    "endpoint": "oss-eu-west-1.aliyuncs.com"
+  },
+  {
+    "id": 94,
+    "vendor": "Alibaba",
+    "region_name": "Silicon Valley (US)",
+    "region_id": "us-west-1",
+    "endpoint": "oss-us-west-1.aliyuncs.com"
+  },
+  {
+    "id": 95,
+    "vendor": "Alibaba",
+    "region_name": "Virginia (US)",
+    "region_id": "us-east-1",
+    "endpoint": "oss-us-east-1.aliyuncs.com"
+  },
+  {
+    "id": 96,
+    "vendor": "Alibaba",
+    "region_name": "Mexico City (MX)",
+    "region_id": "na-south-1",
+    "endpoint": "oss-na-south-1.aliyuncs.com"
+  },
+  {
+    "id": 97,
+    "vendor": "Alibaba",
+    "region_name": "Paris (FR)",
+    "region_id": "eu-west-2",
+    "endpoint": "oss-eu-west-2.aliyuncs.com"
+  },
+  {
+    "id": 98,
+    "vendor": "Alibaba",
+    "region_name": "Dubai (AE)",
+    "region_id": "me-east-1",
+    "endpoint": "oss-me-east-1.aliyuncs.com"
+  },
+  {
+    "id": 99,
+    "vendor": "Huawei",
+    "region_name": "Cairo (EG)",
+    "region_id": "af-north-1",
+    "endpoint": "obs.af-north-1.myhuaweicloud.com"
+  },
+  {
+    "id": 100,
+    "vendor": "Huawei",
+    "region_name": "Johannesburg (ZA)",
+    "region_id": "af-south-1",
+    "endpoint": "obs.af-south-1.myhuaweicloud.com"
+  },
+  {
+    "id": 101,
+    "vendor": "Huawei",
+    "region_name": "Hong Kong (CN)",
+    "region_id": "ap-southeast-1",
+    "endpoint": "obs.ap-southeast-1.myhuaweicloud.com"
+  },
+  {
+    "id": 102,
+    "vendor": "Huawei",
+    "region_name": "Bangkok (TH)",
+    "region_id": "ap-southeast-2",
+    "endpoint": "iam.ap-southeast-2.myhuaweicloud.com"
+  },
+  {
+    "id": 103,
+    "vendor": "Huawei",
+    "region_name": "Singapore (SG)",
+    "region_id": "ap-southeast-3",
+    "endpoint": "obs.ap-southeast-3.myhuaweicloud.com"
+  },
+  {
+    "id": 104,
+    "vendor": "Huawei",
+    "region_name": "Jakarta (ID)",
+    "region_id": "ap-southeast-4",
+    "endpoint": "obs.ap-southeast-4.myhuaweicloud.com"
+  },
+  {
+    "id": 105,
+    "vendor": "Huawei",
+    "region_name": "Manila (PH)",
+    "region_id": "ap-southeast-5",
+    "endpoint": "obs.ap-southeast-5.myhuaweicloud.com"
+  },
+  {
+    "id": 106,
+    "vendor": "Huawei",
+    "region_name": "Shanghai (CN)",
+    "region_id": "cn-east-3",
+    "endpoint": "obs.cn-east-3.myhuaweicloud.com"
+  },
+  {
+    "id": 107,
+    "vendor": "Huawei",
+    "region_name": "Beijing (CN)",
+    "region_id": "cn-north-4",
+    "endpoint": "obs.cn-north-4.myhuaweicloud.com"
+  },
+  {
+    "id": 108,
+    "vendor": "Huawei",
+    "region_name": "Ulanqab (CN)",
+    "region_id": "cn-north-9",
+    "endpoint": "obs.cn-north-9.myhuaweicloud.com"
+  },
+  {
+    "id": 109,
+    "vendor": "Huawei",
+    "region_name": "Guangzhou (CN)",
+    "region_id": "cn-south-1",
+    "endpoint": "obs.cn-south-1.myhuaweicloud.com"
+  },
+  {
+    "id": 110,
+    "vendor": "Huawei",
+    "region_name": "Guiyang (CN)",
+    "region_id": "cn-southwest-2",
+    "endpoint": "obs.cn-southwest-2.myhuaweicloud.com"
+  },
+  {
+    "id": 111,
+    "vendor": "Huawei",
+    "region_name": "Dublin (IE)",
+    "region_id": "eu-west-101",
+    "endpoint": "obs.eu-west-101.myhuaweicloud.eu"
+  },
+  {
+    "id": 112,
+    "vendor": "Huawei",
+    "region_name": "Mexico City (MX)",
+    "region_id": "la-north-2",
+    "endpoint": "obs.la-north-2.myhuaweicloud.com"
+  },
+  {
+    "id": 113,
+    "vendor": "Huawei",
+    "region_name": "Santiago (CL)",
+    "region_id": "la-south-2",
+    "endpoint": "obs.la-south-2.myhuaweicloud.com"
+  },
+  {
+    "id": 114,
+    "vendor": "Huawei",
+    "region_name": "Riyadh (SA)",
+    "region_id": "me-east-1",
+    "endpoint": "obs.me-east-1.myhuaweicloud.com"
+  },
+  {
+    "id": 115,
+    "vendor": "Huawei",
+    "region_name": "Sao Paulo (BR)",
+    "region_id": "sa-brazil-1",
+    "endpoint": "obs.sa-brazil-1.myhuaweicloud.com"
+  },
+  {
+    "id": 116,
+    "vendor": "Huawei",
+    "region_name": "Istanbul (TR)",
+    "region_id": "tr-west-1",
+    "endpoint": "obs.tr-west-1.myhuaweicloud.com"
+  },
+  {
+    "id": 117,
+    "vendor": "Oracle",
+    "region_name": "Hyderabad (India)",
+    "region_id": "ap-hyderabad-1",
+    "endpoint": "objectstorage.ap-hyderabad-1.oraclecloud.com"
+  },
+  {
+    "id": 118,
+    "vendor": "Oracle",
+    "region_name": "Osaka (Japan)",
+    "region_id": "ap-osaka-1",
+    "endpoint": "objectstorage.ap-osaka-1.oraclecloud.com"
+  },
+  {
+    "id": 119,
+    "vendor": "Oracle",
+    "region_name": "Seoul (Korea)",
+    "region_id": "ap-seoul-1",
+    "endpoint": "objectstorage.ap-seoul-1.oraclecloud.com"
+  },
+  {
+    "id": 120,
+    "vendor": "Oracle",
+    "region_name": "Sydney (Australia)",
+    "region_id": "ap-sydney-1",
+    "endpoint": "objectstorage.ap-sydney-1.oraclecloud.com"
+  },
+  {
+    "id": 121,
+    "vendor": "Oracle",
+    "region_name": "Tokyo (Japan)",
+    "region_id": "ap-tokyo-1",
+    "endpoint": "objectstorage.ap-tokyo-1.oraclecloud.com"
+  },
+  {
+    "id": 122,
+    "vendor": "Oracle",
+    "region_name": "Melbourne (Australia)",
+    "region_id": "ap-melbourne-1",
+    "endpoint": "objectstorage.ap-melbourne-1.oraclecloud.com"
+  },
+  {
+    "id": 123,
+    "vendor": "Oracle",
+    "region_name": "Mumbai (India)",
+    "region_id": "ap-mumbai-1",
+    "endpoint": "objectstorage.ap-mumbai-1.oraclecloud.com"
+  },
+  {
+    "id": 124,
+    "vendor": "Oracle",
+    "region_name": "Ashburn (US)",
+    "region_id": "us-ashburn-1",
+    "endpoint": "objectstorage.us-ashburn-1.oraclecloud.com"
+  },
+  {
+    "id": 125,
+    "vendor": "Oracle",
+    "region_name": "Phoenix (US)",
+    "region_id": "us-phoenix-1",
+    "endpoint": "objectstorage.us-phoenix-1.oraclecloud.com"
+  },
+  {
+    "id": 126,
+    "vendor": "Oracle",
+    "region_name": "San Jose (US)",
+    "region_id": "us-sanjose-1",
+    "endpoint": "objectstorage.us-sanjose-1.oraclecloud.com"
+  },
+  {
+    "id": 127,
+    "vendor": "Oracle",
+    "region_name": "Montreal(CA)",
+    "region_id": "ca-montreal-1",
+    "endpoint": "objectstorage.ca-montreal-1.oraclecloud.com"
+  },
+  {
+    "id": 128,
+    "vendor": "Oracle",
+    "region_name": "Toronto (Canada)",
+    "region_id": "ca-toronto-1",
+    "endpoint": "objectstorage.ca-toronto-1.oraclecloud.com"
+  },
+  {
+    "id": 129,
+    "vendor": "Oracle",
+    "region_name": "Cardiff (UK)",
+    "region_id": "uk-cardiff-1",
+    "endpoint": "objectstorage.uk-cardiff-1.oraclecloud.com"
+  },
+  {
+    "id": 130,
+    "vendor": "Oracle",
+    "region_name": "London (UK)",
+    "region_id": "uk-london-1",
+    "endpoint": "objectstorage.uk-london-1.oraclecloud.com"
+  },
+  {
+    "id": 131,
+    "vendor": "Oracle",
+    "region_name": "Amsterdam (Netherlands)",
+    "region_id": "eu-amsterdam-1",
+    "endpoint": "objectstorage.eu-amsterdam-1.oraclecloud.com"
+  },
+  {
+    "id": 132,
+    "vendor": "Oracle",
+    "region_name": "Frankfurt (Germany)",
+    "region_id": "eu-frankfurt-1",
+    "endpoint": "objectstorage.eu-frankfurt-1.oraclecloud.com"
+  },
+  {
+    "id": 133,
+    "vendor": "Oracle",
+    "region_name": "Zurich (Switzerland)",
+    "region_id": "eu-zurich-1",
+    "endpoint": "objectstorage.eu-zurich-1.oraclecloud.com"
+  },
+  {
+    "id": 134,
+    "vendor": "Oracle",
+    "region_name": "Dubai (UAE)",
+    "region_id": "me-dubai-1",
+    "endpoint": "objectstorage.me-dubai-1.oraclecloud.com"
+  },
+  {
+    "id": 135,
+    "vendor": "Oracle",
+    "region_name": "Jeddah (Saudi Arabia)",
+    "region_id": "me-jeddah-1",
+    "endpoint": "objectstorage.me-jeddah-1.oraclecloud.com"
+  },
+  {
+    "id": 136,
+    "vendor": "Oracle",
+    "region_name": "Santiago (Chile)",
+    "region_id": "sa-santiago-1",
+    "endpoint": "objectstorage.sa-santiago-1.oraclecloud.com"
+  },
+  {
+    "id": 137,
+    "vendor": "Oracle",
+    "region_name": "Sao Paulo (BR)",
+    "region_id": "sa-saopaulo-1",
+    "endpoint": "objectstorage.sa-saopaulo-1.oraclecloud.com"
+  },
+  {
+    "id": 138,
+    "vendor": "Tencent",
+    "region_name": "Beijing(CN)",
+    "region_id": "ap-beijing",
+    "endpoint": "cos.ap-beijing.myqcloud.com"
+  },
+  {
+    "id": 139,
+    "vendor": "Tencent",
+    "region_name": "Shanghai(CN)",
+    "region_id": "ap-shanghai",
+    "endpoint": "cos.ap-shanghai.myqcloud.com"
+  },
+  {
+    "id": 140,
+    "vendor": "Tencent",
+    "region_name": "Guangzhou(CN)",
+    "region_id": "ap-guangzhou",
+    "endpoint": "cos.ap-guangzhou.myqcloud.com"
+  },
+  {
+    "id": 141,
+    "vendor": "Tencent",
+    "region_name": "Chengdu(CN)",
+    "region_id": "ap-chengdu",
+    "endpoint": "cos.ap-chengdu.myqcloud.com"
+  },
+  {
+    "id": 142,
+    "vendor": "Tencent",
+    "region_name": "Hong kong(CN)",
+    "region_id": "ap-hongkong",
+    "endpoint": "cos.ap-hongkong.myqcloud.com"
+  },
+  {
+    "id": 143,
+    "vendor": "Tencent",
+    "region_name": "Singapore (SG)",
+    "region_id": "ap-singapore",
+    "endpoint": "cos.ap-singapore.myqcloud.com"
+  },
+  {
+    "id": 144,
+    "vendor": "Tencent",
+    "region_name": "Jakarta (ID)",
+    "region_id": "ap-jakarta",
+    "endpoint": "cos.ap-jakarta.myqcloud.com"
+  },
+  {
+    "id": 145,
+    "vendor": "Tencent",
+    "region_name": "Seoul (KR)",
+    "region_id": "ap-seoul",
+    "endpoint": "cos.ap-seoul.myqcloud.com"
+  },
+  {
+    "id": 146,
+    "vendor": "Tencent",
+    "region_name": "Bangkok (TH)",
+    "region_id": "ap-bangkok",
+    "endpoint": "cos.ap-bangkok.myqcloud.com"
+  },
+  {
+    "id": 147,
+    "vendor": "Tencent",
+    "region_name": "Tokyo (JP)",
+    "region_id": "ap-tokyo",
+    "endpoint": "cos.ap-tokyo.myqcloud.com"
+  },
+  {
+    "id": 148,
+    "vendor": "Tencent",
+    "region_name": "Silicon Valley (US)",
+    "region_id": "na-siliconvalley",
+    "endpoint": "cos.na-siliconvalley.myqcloud.com"
+  },
+  {
+    "id": 149,
+    "vendor": "Tencent",
+    "region_name": "Virginia (US)",
+    "region_id": "na-ashburn",
+    "endpoint": "cos.na-ashburn.myqcloud.com"
+  },
+  {
+    "id": 150,
+    "vendor": "Tencent",
+    "region_name": "Riyadh (SA)",
+    "region_id": "me-saudi-arabia",
+    "endpoint": "cos.me-saudi-arabia.myqcloud.com"
+  },
+  {
+    "id": 151,
+    "vendor": "Tencent",
+    "region_name": "Sao Paulo (BR)",
+    "region_id": "sa-saopaulo",
+    "endpoint": "cos.sa-saopaulo.myqcloud.com"
+  },
+  {
+    "id": 152,
+    "vendor": "Tencent",
+    "region_name": "Frankfurt (DE)",
+    "region_id": "eu-frankfurt",
+    "endpoint": "cos.eu-frankfurt.myqcloud.com"
+  },
+  {
+    "id": 153,
+    "vendor": "Azure",
+    "region_name": "New South Wales",
+    "region_id": "australiaeast",
+    "endpoint": "104.210.90.65"
+  },
+  {
+    "id": 154,
+    "vendor": "Azure",
+    "region_name": "Vienna",
+    "region_id": "austriaeast",
+    "endpoint": "68.210.29.64"
+  },
+  {
+    "id": 155,
+    "vendor": "Azure",
+    "region_name": "Brussels",
+    "region_id": "belgiumcentral",
+    "endpoint": "9.160.60.95"
+  },
+  {
+    "id": 156,
+    "vendor": "Azure",
+    "region_name": "Sao Paulo State",
+    "region_id": "brazilsouth",
+    "endpoint": "104.41.46.178"
+  },
+  {
+    "id": 157,
+    "vendor": "Azure",
+    "region_name": "Toronto",
+    "region_id": "canadacentral",
+    "endpoint": "40.85.230.101"
+  },
+  {
+    "id": 158,
+    "vendor": "Azure",
+    "region_name": "Paris",
+    "region_id": "centralfrance",
+    "endpoint": "52.143.136.64"
+  },
+  {
+    "id": 159,
+    "vendor": "Azure",
+    "region_name": "Pune",
+    "region_id": "centralindia",
+    "endpoint": "104.211.98.24"
+  },
+  {
+    "id": 160,
+    "vendor": "Azure",
+    "region_name": "Iowa",
+    "region_id": "centralus",
+    "endpoint": "13.86.120.89"
+  },
+  {
+    "id": 161,
+    "vendor": "Azure",
+    "region_name": "Santiago",
+    "region_id": "chilec",
+    "endpoint": "68.211.13.17"
+  },
+  {
+    "id": 162,
+    "vendor": "Azure",
+    "region_name": "Copenhagen",
+    "region_id": "denmarkeast",
+    "endpoint": "9.205.58.158"
+  },
+  {
+    "id": 163,
+    "vendor": "Azure",
+    "region_name": "Hong Kong SAR",
+    "region_id": "eastasia",
+    "endpoint": "23.99.115.5"
+  },
+  {
+    "id": 164,
+    "vendor": "Azure",
+    "region_name": "Virginia",
+    "region_id": "eastus",
+    "endpoint": "191.236.60.72"
+  },
+  {
+    "id": 165,
+    "vendor": "Azure",
+    "region_name": "Frankfurt",
+    "region_id": "germanywc",
+    "endpoint": "51.116.175.204"
+  },
+  {
+    "id": 166,
+    "vendor": "Azure",
+    "region_name": "Jakarta",
+    "region_id": "indonesiacentral",
+    "endpoint": "48.193.54.104"
+  },
+  {
+    "id": 167,
+    "vendor": "Azure",
+    "region_name": "Israel",
+    "region_id": "israelcentral",
+    "endpoint": "20.217.9.47"
+  },
+  {
+    "id": 168,
+    "vendor": "Azure",
+    "region_name": "Milan",
+    "region_id": "italynorth",
+    "endpoint": "4.232.42.0"
+  },
+  {
+    "id": 169,
+    "vendor": "Azure",
+    "region_name": "Tokyo, Saitama",
+    "region_id": "japaneast",
+    "endpoint": "104.41.185.116"
+  },
+  {
+    "id": 170,
+    "vendor": "Azure",
+    "region_name": "Seoul",
+    "region_id": "koreacentral",
+    "endpoint": "52.231.32.117"
+  },
+  {
+    "id": 171,
+    "vendor": "Azure",
+    "region_name": "Kuala Lumpur",
+    "region_id": "malaysiawest",
+    "endpoint": "20.17.131.32"
+  },
+  {
+    "id": 172,
+    "vendor": "Azure",
+    "region_name": "Querétaro State",
+    "region_id": "mexicocentral",
+    "endpoint": "158.23.115.20"
+  },
+  {
+    "id": 173,
+    "vendor": "Azure",
+    "region_name": "Auckland",
+    "region_id": "newzealandnorth",
+    "endpoint": "172.204.165.73"
+  },
+  {
+    "id": 174,
+    "vendor": "Azure",
+    "region_name": "Ireland",
+    "region_id": "northeurope",
+    "endpoint": "191.237.222.191"
+  },
+  {
+    "id": 175,
+    "vendor": "Azure",
+    "region_name": "Norway",
+    "region_id": "norwaye",
+    "endpoint": "51.120.79.170"
+  },
+  {
+    "id": 176,
+    "vendor": "Azure",
+    "region_name": "Warsaw",
+    "region_id": "polandcentral",
+    "endpoint": "20.215.128.50"
+  },
+  {
+    "id": 177,
+    "vendor": "Azure",
+    "region_name": "Doha",
+    "region_id": "qatarcentral",
+    "endpoint": "20.21.69.176"
+  },
+  {
+    "id": 178,
+    "vendor": "Azure",
+    "region_name": "Johannesburg",
+    "region_id": "southafricanorth",
+    "endpoint": "40.127.3.19"
+  },
+  {
+    "id": 179,
+    "vendor": "Azure",
+    "region_name": "Singapore",
+    "region_id": "southeastasia",
+    "endpoint": "104.215.158.33"
+  },
+  {
+    "id": 180,
+    "vendor": "Azure",
+    "region_name": "Madrid",
+    "region_id": "spaincentral",
+    "endpoint": "68.221.41.73"
+  },
+  {
+    "id": 181,
+    "vendor": "Azure",
+    "region_name": "Gävle",
+    "region_id": "swedencentral",
+    "endpoint": "4.223.187.21"
+  },
+  {
+    "id": 182,
+    "vendor": "Azure",
+    "region_name": "Zurich",
+    "region_id": "switzerlandn",
+    "endpoint": "51.107.68.94"
+  },
+  {
+    "id": 183,
+    "vendor": "Azure",
+    "region_name": "Dubai",
+    "region_id": "uaenorth",
+    "endpoint": "40.123.229.242"
+  },
+  {
+    "id": 184,
+    "vendor": "Azure",
+    "region_name": "UK South",
+    "region_id": "uksouth",
+    "endpoint": "51.140.185.75"
+  },
+  {
+    "id": 185,
+    "vendor": "Azure",
+    "region_name": "West Europe",
+    "region_id": "westeurope",
+    "endpoint": "191.233.94.45"
+  },
+  {
+    "id": 186,
+    "vendor": "Azure",
+    "region_name": "West US 2",
+    "region_id": "westus2",
+    "endpoint": "13.66.225.188"
+  }
+]

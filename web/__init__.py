@@ -1,0 +1,1 @@
+"""PingCloud Web Frontend."""

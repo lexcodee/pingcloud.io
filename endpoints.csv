@@ -1,0 +1,152 @@
+id,vendor,region_name,endpoint
+1,AWS,Cape Town (ZA),s3.af-south-1.amazonaws.com
+2,AWS,Hong Kong (HK),s3.ap-east-1.amazonaws.com
+3,AWS,Taipei (TW),s3.ap-east-2.amazonaws.com
+4,AWS,Tokyo (JP),s3.ap-northeast-1.amazonaws.com
+5,AWS,Seoul (KR),s3.ap-northeast-2.amazonaws.com
+6,AWS,Osaka (JP),s3.ap-northeast-3.amazonaws.com
+7,AWS,Singapore (SG),s3.ap-southeast-1.amazonaws.com
+8,AWS,Sydney (AU),s3.ap-southeast-2.amazonaws.com
+9,AWS,Jakarta (ID),s3.ap-southeast-3.amazonaws.com
+10,AWS,Melbourne (AU),s3.ap-southeast-4.amazonaws.com
+11,AWS,Malaysia (MY),s3.ap-southeast-5.amazonaws.com
+12,AWS,Thailand (TH),s3.ap-southeast-7.amazonaws.com
+13,AWS,Mumbai (IN),s3.ap-south-1.amazonaws.com
+14,AWS,Hyderabad (IN),s3.ap-south-2.amazonaws.com
+15,AWS,Canada Central (CA),s3.ca-central-1.amazonaws.com
+16,AWS,Calgary (CA),s3.ca-west-1.amazonaws.com
+17,AWS,Mexico Central (MX),s3.mx-central-1.amazonaws.com
+18,AWS,Frankfurt (DE),s3.eu-central-1.amazonaws.com
+19,AWS,Zurich(CH),s3.eu-central-2.amazonaws.com
+20,AWS,Stockholm (SE),s3.eu-north-1.amazonaws.com
+21,AWS,Milan (IT),s3.eu-south-1.amazonaws.com
+22,AWS,Spain (ES),s3.eu-south-2.amazonaws.com
+23,AWS,Ireland (IE),s3.eu-west-1.amazonaws.com
+24,AWS,London (UK),s3.eu-west-2.amazonaws.com
+25,AWS,Paris (FR),s3.eu-west-3.amazonaws.com
+26,AWS,UAE (AE),s3.me-central-1.amazonaws.com
+28,AWS,Israel (IL),s3.il-central-1.amazonaws.com
+29,AWS,Sao Paulo (BR),s3.sa-east-1.amazonaws.com
+30,AWS,N. Virginia (US),s3.us-east-1.amazonaws.com
+31,AWS,Ohio (US),s3.us-east-2.amazonaws.com
+32,AWS,N. California (US),s3.us-west-1.amazonaws.com
+33,AWS,Oregon (US),s3.us-west-2.amazonaws.com
+34,AWS,Beijing (CN),s3.cn-north-1.amazonaws.com.cn
+35,AWS,Ningxia (CN),s3.cn-northwest-1.amazonaws.com.cn
+36,GCP,Cape Town(ZA),logging.africa-south1.rep.googleapis.com
+37,GCP,Doha(QA),logging.me-central1.rep.googleapis.com
+38,GCP,Riyadh(SA),logging.me-central2.rep.googleapis.com
+39,GCP,Tel Aviv(IL),logging.me-west1.rep.googleapis.com
+40,GCP,Council Bluffs(US),logging.us-central1.rep.googleapis.com
+41,GCP,Moncks Corner(US),logging.us-east1.rep.googleapis.com
+42,GCP,Ashburn(US),logging.us-east4.rep.googleapis.com
+43,GCP,Columbus(US),logging.us-east5.rep.googleapis.com
+44,GCP,Dallas(US),logging.us-south1.rep.googleapis.com
+45,GCP,The Dalles(US),logging.us-west1.rep.googleapis.com
+46,GCP,Los Angeles(US),logging.us-west2.rep.googleapis.com
+47,GCP,Salt Lake City(US),logging.us-west3.rep.googleapis.com
+48,GCP,Las Vegas(US),logging.us-west4.rep.googleapis.com
+49,GCP,Montreal(CA),logging.northamerica-northeast1.rep.googleapis.com
+50,GCP,Toronto(CA),logging.northamerica-northeast2.rep.googleapis.com
+51,GCP,Queretaro(MX),logging.northamerica-south1.rep.googleapis.com
+52,GCP,Sao Paulo (BR),logging.southamerica-east1.rep.googleapis.com
+53,GCP,Santiago(CL),logging.southamerica-west1.rep.googleapis.com
+54,GCP,Changhua County(TW),logging.asia-east1.rep.googleapis.com
+55,GCP,Hong Kong(HK),logging.asia-east2.rep.googleapis.com
+56,GCP,Tokyo(JP),logging.asia-northeast1.rep.googleapis.com
+57,GCP,Osaka(JP),logging.asia-northeast2.rep.googleapis.com
+58,GCP,Seoul(KR),logging.asia-northeast3.rep.googleapis.com
+59,GCP,Mumbai(IN),logging.asia-south1.rep.googleapis.com
+60,GCP,Delhi(IN),logging.asia-south2.rep.googleapis.com
+61,GCP,Singapore(SG),logging.asia-southeast1.rep.googleapis.com
+62,GCP,Jakarta(ID),logging.asia-southeast2.rep.googleapis.com
+63,GCP,Sydney(AU),logging.australia-southeast1.rep.googleapis.com
+64,GCP,Melbourne(AU),logging.australia-southeast2.rep.googleapis.com
+65,GCP,Warsaw(PL),logging.europe-central2.rep.googleapis.com
+66,GCP,Hamina(FI),logging.europe-north1.rep.googleapis.com
+67,GCP,Stockholm(SE),logging.europe-north2.rep.googleapis.com
+68,GCP,Madrid(ES),logging.europe-southwest1.rep.googleapis.com
+69,GCP,St. Ghislain(BE),logging.europe-west1.rep.googleapis.com
+70,GCP,London(GB),logging.europe-west2.rep.googleapis.com
+71,GCP,Frankfurt(DE),logging.europe-west3.rep.googleapis.com
+72,GCP,Eemshaven(NL),logging.europe-west4.rep.googleapis.com
+73,GCP,Zurich(CH),logging.europe-west6.rep.googleapis.com
+74,GCP,Milan(IT),logging.europe-west8.rep.googleapis.com
+75,GCP,Paris(FR),logging.europe-west9.rep.googleapis.com
+76,GCP,Berlin(DE),logging.europe-west10.rep.googleapis.com
+77,GCP,Turin(IT),logging.europe-west12.rep.googleapis.com
+78,Alibaba,Hangzhou (CN),oss-cn-hangzhou.aliyuncs.com
+79,Alibaba,Shanghai (CN),oss-cn-shanghai.aliyuncs.com
+80,Alibaba,Beijing (CN),oss-cn-beijing.aliyuncs.com
+81,Alibaba,Ulanqab (CN),oss-cn-wulanchabu.aliyuncs.com
+82,Alibaba,Guangzhou (CN),oss-cn-guangzhou.aliyuncs.com
+83,Alibaba,Chengdu (CN),oss-cn-chengdu.aliyuncs.com
+84,Alibaba,Hong Kong (CN),oss-cn-hongkong.aliyuncs.com
+85,Alibaba,Tokyo (JP),oss-ap-northeast-1.aliyuncs.com
+86,Alibaba,Seoul (KR),oss-ap-northeast-2.aliyuncs.com
+87,Alibaba,Singapore (SG),oss-ap-southeast-1.aliyuncs.com
+88,Alibaba,Kuala Lumpur (MY),oss-ap-southeast-3.aliyuncs.com
+89,Alibaba,Jakarta (ID),oss-ap-southeast-5.aliyuncs.com
+90,Alibaba,Manila (PH),oss-ap-southeast-6.aliyuncs.com
+91,Alibaba,Bangkok (TH),oss-ap-southeast-7.aliyuncs.com
+92,Alibaba,Frankfurt (DE),oss-eu-central-1.aliyuncs.com
+93,Alibaba,London (GB),oss-eu-west-1.aliyuncs.com
+94,Alibaba,Silicon Valley (US),oss-us-west-1.aliyuncs.com
+95,Alibaba,Virginia (US),oss-us-east-1.aliyuncs.com
+96,Alibaba,Mexico City (MX),oss-na-south-1.aliyuncs.com
+97,Alibaba,Paris (FR),oss-eu-west-2.aliyuncs.com
+98,Alibaba,Dubai (AE),oss-me-east-1.aliyuncs.com
+117,Oracle,Hyderabad (India),objectstorage.ap-hyderabad-1.oraclecloud.com
+118,Oracle,Osaka (Japan),objectstorage.ap-osaka-1.oraclecloud.com
+119,Oracle,Seoul (Korea),objectstorage.ap-seoul-1.oraclecloud.com
+120,Oracle,Sydney (Australia),objectstorage.ap-sydney-1.oraclecloud.com
+121,Oracle,Tokyo (Japan),objectstorage.ap-tokyo-1.oraclecloud.com
+122,Oracle,Melbourne (Australia),objectstorage.ap-melbourne-1.oraclecloud.com
+123,Oracle,Mumbai (India),objectstorage.ap-mumbai-1.oraclecloud.com
+124,Oracle,Ashburn (US),objectstorage.us-ashburn-1.oraclecloud.com
+125,Oracle,Phoenix (US),objectstorage.us-phoenix-1.oraclecloud.com
+126,Oracle,San Jose (US),objectstorage.us-sanjose-1.oraclecloud.com
+127,Oracle,Montreal(CA),objectstorage.ca-montreal-1.oraclecloud.com
+128,Oracle,Toronto (Canada),objectstorage.ca-toronto-1.oraclecloud.com
+129,Oracle,Cardiff (UK),objectstorage.uk-cardiff-1.oraclecloud.com
+130,Oracle,London (UK),objectstorage.uk-london-1.oraclecloud.com
+131,Oracle,Amsterdam (Netherlands),objectstorage.eu-amsterdam-1.oraclecloud.com
+132,Oracle,Frankfurt (Germany),objectstorage.eu-frankfurt-1.oraclecloud.com
+133,Oracle,Zurich (Switzerland),objectstorage.eu-zurich-1.oraclecloud.com
+134,Oracle,Dubai (UAE),objectstorage.me-dubai-1.oraclecloud.com
+135,Oracle,Jeddah (Saudi Arabia),objectstorage.me-jeddah-1.oraclecloud.com
+136,Oracle,Santiago (Chile),objectstorage.sa-santiago-1.oraclecloud.com
+137,Oracle,Sao Paulo (BR),objectstorage.sa-saopaulo-1.oraclecloud.com
+138,Tencent,Beijing(CN),cos.ap-beijing.myqcloud.com
+139,Tencent,Shanghai(CN),cos.ap-shanghai.myqcloud.com
+140,Tencent,Guangzhou(CN),cos.ap-guangzhou.myqcloud.com
+141,Tencent,Chengdu(CN),cos.ap-chengdu.myqcloud.com
+142,Tencent,Hong kong(CN),cos.ap-hongkong.myqcloud.com
+143,Tencent,Singapore (SG),cos.ap-singapore.myqcloud.com
+144,Tencent,Jakarta (ID),cos.ap-jakarta.myqcloud.com
+145,Tencent,Seoul (KR),cos.ap-seoul.myqcloud.com
+146,Tencent,Bangkok (TH),cos.ap-bangkok.myqcloud.com
+147,Tencent,Tokyo (JP),cos.ap-tokyo.myqcloud.com
+148,Tencent,Silicon Valley (US),cos.na-siliconvalley.myqcloud.com
+149,Tencent,Virginia (US),cos.na-ashburn.myqcloud.com
+150,Tencent,Riyadh (SA),cos.me-saudi-arabia.myqcloud.com
+151,Tencent,Sao Paulo (BR),cos.sa-saopaulo.myqcloud.com
+152,Tencent,Frankfurt (DE),cos.eu-frankfurt.myqcloud.com
+99,Huawei,Cairo (EG),obs.af-north-1.myhuaweicloud.com
+100,Huawei,Johannesburg (ZA),obs.af-south-1.myhuaweicloud.com
+101,Huawei,Hong Kong (CN),obs.ap-southeast-1.myhuaweicloud.com
+102,Huawei,Bangkok (TH),obs.ap-southeast-2.myhuaweicloud.com
+103,Huawei,Singapore (SG),obs.ap-southeast-3.myhuaweicloud.com
+104,Huawei,Jakarta (ID),obs.ap-southeast-4.myhuaweicloud.com
+105,Huawei,Manila (PH),obs.ap-southeast-5.myhuaweicloud.com
+106,Huawei,Shanghai (CN),obs.cn-east-3.myhuaweicloud.com
+107,Huawei,Beijing (CN),obs.cn-north-4.myhuaweicloud.com
+108,Huawei,Ulanqab (CN),obs.cn-north-9.myhuaweicloud.com
+109,Huawei,Guangzhou (CN),obs.cn-south-1.myhuaweicloud.com
+110,Huawei,Guiyang (CN),obs.cn-southwest-2.myhuaweicloud.com
+111,Huawei,Dublin (IE),obs.eu-west-101.myhuaweicloud.eu
+112,Huawei,Mexico City (MX),obs.la-north-2.myhuaweicloud.com
+113,Huawei,Santiago (CL),obs.la-south-2.myhuaweicloud.com
+114,Huawei,Riyadh (SA),obs.me-east-1.myhuaweicloud.com
+115,Huawei,Sao Paulo (BR),obs.sa-brazil-1.myhuaweicloud.com
+116,Huawei,Istanbul (TR),obs.tr-west-1.myhuaweicloud.com
